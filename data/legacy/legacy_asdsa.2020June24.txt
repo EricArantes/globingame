@@ -1,0 +1,59 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+Picking up
+item equipped
+Picking up
+asdsa rolls a 19 and hits Strech for 5 damage!
+Strech's health is 2/7
+asdsa rolls a 16 and hits Strech for 4 damage!
+Strech's health is 0/7
+Strech dies!
+bella widow rolls a 11 and misses asdsa
+bella widow rolls a 18 and hits asdsa for 3 damage!
+asdsa's health is 19/22
+bella widow the spitting spug's eyes glaze over
+The Brain Scrambler has 1 charge(s) left
+Yodel rolls a 16 and hits asdsa for 3 damage!
+asdsa's health is 16/22
+asdsa rolls a 17 and hits Yodel for 4 damage!
+Yodel's health is 6/10
+Yodel rolls a 10 and misses asdsa
+asdsa rolls a 10 and misses Yodel
+bella widow rolls a 21 and hits Yodel for 2 damage!
+Yodel's health is 4/10
+Yodel rolls a 21 and hits asdsa for 4 damage!
+asdsa's health is 12/22
+asdsa rolls a 10 and misses Yodel
+Yodel rolls a 20 and hits asdsa for 4 damage!
+asdsa's health is 8/22
+asdsa rolls a 14 and hits Yodel for 7 damage!
+Yodel's health is 0/10
+Yodel dies!
+you level up!
+bella widow the spitting spug has broken free!
+bella widow the spitting spug's eyes glaze over
+asdsa rolls a 5 and misses bella widow
+asdsa rolls a 11 and misses bella widow
+asdsa rolls a 14 and hits bella widow for 6 damage!
+bella widow's health is 1/7
+asdsa rolls a 18 and hits bella widow for 5 damage!
+bella widow's health is 0/7
+bella widow dies!
+your dexterity went up!
+your dexterity went up!
+you descend into floor 2
+Picking up
+Cottie rolls a 22 and hits asdsa for 2 damage!
+asdsa's health is 6/22
+asdsa rolls a 10 and misses Cottie
+Cottie rolls a 19 and hits asdsa for 3 damage!
+asdsa's health is 3/22
+asdsa rolls a 7 and misses Cottie
+Cottie rolls a 10 and misses asdsa
+Appie rolls a 3 and misses asdsa
+asdsa rolls a 17 and hits Cottie for 4 damage!
+Cottie's health is 2/6
+Cottie rolls a 14 and hits asdsa for 3 damage!
+asdsa's health is 0/22
+asdsa dies!

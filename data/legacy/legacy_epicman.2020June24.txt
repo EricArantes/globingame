@@ -1,0 +1,134 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+epicman rolls a 20 and hits Upchuck for 3 damage!
+Upchuck's health is 6/9
+Upchuck rolls a 14 and hits epicman for 2 damage!
+epicman's health is 20/22
+epicman rolls a 16 and hits Upchuck for 4 damage!
+Upchuck's health is 2/9
+Upchuck rolls a 4 and misses epicman
+epicman rolls a 6 and misses Upchuck
+Upchuck rolls a 3 and misses epicman
+epicman rolls a 10 and misses Upchuck
+Upchuck rolls a 6 and misses epicman
+epicman rolls a 8 and misses Upchuck
+Upchuck rolls a 9 and misses epicman
+epicman rolls a 3 and misses Upchuck
+Upchuck rolls a 12 and hits epicman for 4 damage!
+epicman's health is 16/22
+epicman rolls a 19 and hits Upchuck for 3 damage!
+Upchuck's health is 0/9
+Upchuck dies!
+Picking up
+epicman rolls a 9 and misses Speedy
+epicman rolls a 6 and misses Speedy
+epicman rolls a 11 and misses Speedy
+epicman rolls a 9 and misses Speedy
+epicman rolls a 9 and misses Speedy
+epicman rolls a 5 and misses Speedy
+epicman rolls a 23 and hits Speedy for 3 damage!
+Speedy's health is 4/7
+epicman rolls a 23 and hits Speedy for 4 damage!
+Speedy's health is 0/7
+Speedy dies!
+you level up!
+your dexterity went up!
+your dexterity went up!
+epicman rolls a 12 and hits Fetchup for 4 damage!
+Fetchup's health is 7/11
+Fetchup rolls a 21 and hits epicman for 2 damage!
+epicman's health is 14/22
+epicman rolls a 9 and misses Fetchup
+Fetchup rolls a 3 and misses epicman
+epicman rolls a 7 and misses Fetchup
+Fetchup rolls a 16 and hits epicman for 2 damage!
+epicman's health is 12/22
+epicman rolls a 19 and hits Fetchup for 2 damage!
+Fetchup's health is 5/11
+Fetchup rolls a 14 and hits epicman for 2 damage!
+epicman's health is 10/22
+epicman rolls a 16 and hits Fetchup for 2 damage!
+Fetchup's health is 3/11
+Fetchup rolls a 17 and hits epicman for 4 damage!
+epicman's health is 6/22
+epicman rolls a 21 and hits Fetchup for 3 damage!
+Fetchup's health is 0/11
+Fetchup dies!
+you descend into floor 2
+Picking up
+epicman the Globin healed for 11 health!
+Picking up
+Picking up
+epicman rolls a 3 and misses Strech
+epicman rolls a 18 and hits Strech for 2 damage!
+Strech's health is 5/7
+epicman rolls a 9 and misses Strech
+epicman rolls a 16 and hits Strech for 4 damage!
+Strech's health is 1/7
+epicman rolls a 5 and misses Strech
+epicman rolls a 23 and hits Strech for 2 damage!
+Strech's health is 0/7
+Strech dies!
+your wisdom went up!
+bella widow's health is 0/6
+bella widow dies!
+Heat and shrapnel fill the area dealing 11 points of damage!
+item equipped
+Potie the podman's eyes glaze over
+The Brain Scrambler has 2 charge(s) left
+epicman rolls a 19 and hits Potie for 5 damage!
+Potie's health is 1/6
+Potie rolls a 4 and misses epicman
+epicman rolls a 6 and misses Potie
+Potie the podman has broken free!
+Potie rolls a 9 and misses epicman
+epicman rolls a 14 and hits Potie for 5 damage!
+Potie's health is 0/6
+Potie dies!
+you level up!
+Picking up
+epicman rolls a 24 and hits Potie for 6 damage!
+Potie's health is 4/10
+Potie rolls a 14 and hits epicman for 3 damage!
+epicman's health is 4/22
+epicman rolls a 12 and hits Potie for 5 damage!
+Potie's health is 0/10
+Potie dies!
+Picking up
+epicman the Globin healed for 7 health!
+epicman the Globin healed for 7 health!
+Carrie rolls a 20 and hits epicman for 2 damage!
+epicman's health is 16/22
+epicman rolls a 17 and hits Carrie for 6 damage!
+Carrie's health is 0/6
+Carrie dies!
+Picking up
+epicman the Globin healed for 7 health!
+your strength went up!
+your strength went up!
+Chunder CRITICALLY HITS epicman FOR 8 DAMAGE!
+epicman's health is 14/22
+epicman rolls a 7 and misses Chunder
+Chunder rolls a 8 and misses epicman
+epicman rolls a 17 and hits Chunder for 7 damage!
+Chunder's health is 5/12
+Chunder rolls a 3 and misses epicman
+epicman rolls a 10 and misses Chunder
+Chunder rolls a 18 and hits epicman for 4 damage!
+epicman's health is 10/22
+epicman rolls a 19 and hits Chunder for 7 damage!
+Chunder's health is 0/12
+Chunder dies!
+Fetchup rolls a 12 and hits epicman for 3 damage!
+epicman's health is 7/22
+Fetchup rolls a 12 and hits epicman for 2 damage!
+epicman's health is 5/22
+epicman CRITICALLY HITS Fetchup FOR 8 DAMAGE!
+Fetchup's health is 4/12
+Fetchup CRITICALLY HITS epicman FOR 4 DAMAGE!
+epicman's health is 1/22
+epicman rolls a 8 and misses Fetchup
+Fetchup rolls a 21 and hits epicman for 2 damage!
+epicman's health is -1/22
+epicman dies!

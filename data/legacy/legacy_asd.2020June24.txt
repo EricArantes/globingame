@@ -1,0 +1,29 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+Ralph rolls a 5 and misses asd
+Ralph rolls a 6 and misses asd
+Ralph rolls a 21 and hits asd for 4 damage!
+asd's health is 18/22
+Raddie rolls a 4 and misses asd
+asd rolls a 6 and misses Raddie
+Raddie rolls a 14 and hits asd for 3 damage!
+asd's health is 15/22
+asd rolls a 10 and misses Raddie
+Raddie rolls a 15 and hits asd for 2 damage!
+asd's health is 13/22
+asd rolls a 21 and hits Raddie for 3 damage!
+Raddie's health is 3/6
+Raddie rolls a 21 and hits asd for 2 damage!
+asd's health is 11/22
+asd rolls a 9 and misses Raddie
+Raddie rolls a 17 and hits asd for 4 damage!
+asd's health is 7/22
+asd rolls a 15 and hits Raddie for 4 damage!
+Raddie's health is 0/6
+Raddie dies!
+Lettie rolls a 17 and hits asd for 4 damage!
+asd's health is 3/22
+Orie rolls a 14 and hits asd for 4 damage!
+asd's health is -1/22
+asd dies!

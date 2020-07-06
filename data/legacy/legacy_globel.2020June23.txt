@@ -1,0 +1,88 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+Eject rolls a 8 and misses globel
+Retch rolls a 21 and hits globel for 3 damage!
+globel's health is 19/22
+Eject rolls a 15 and hits globel for 2 damage!
+globel's health is 17/22
+Eject rolls a 15 and hits globel for 2 damage!
+globel's health is 15/22
+Eject rolls a 15 and hits globel for 3 damage!
+globel's health is 12/22
+Retch the Red Choggus's eyes glaze over
+The Brain Scrambler has 2 charge(s) left
+globel rolls a 5 and misses Retch
+globel rolls a 11 and misses Retch
+globel rolls a 10 and misses Retch
+globel rolls a 16 and hits Retch for 3 damage!
+Retch's health is 5/8
+globel rolls a 18 and hits Retch for 2 damage!
+Retch's health is 3/8
+globel rolls a 13 and hits Retch for 2 damage!
+Retch's health is 1/8
+globel rolls a 6 and misses Retch
+globel rolls a 10 and misses Retch
+Retch the Red Choggus has broken free!
+globel rolls a 18 and hits Retch for 2 damage!
+Retch's health is 0/8
+Retch dies!
+Eject the Purple Choggus's eyes glaze over
+The Brain Scrambler has 1 charge(s) left
+globel rolls a 3 and misses Eject
+globel rolls a 3 and misses Eject
+globel rolls a 12 and hits Eject for 2 damage!
+Eject's health is 7/9
+Eject the Purple Choggus has broken free!
+globel rolls a 14 and hits Eject for 2 damage!
+Eject's health is 5/9
+Eject rolls a 4 and misses globel
+globel rolls a 16 and hits Eject for 4 damage!
+Eject's health is 1/9
+Eject rolls a 3 and misses globel
+globel rolls a 9 and misses Eject
+Eject rolls a 19 and hits globel for 3 damage!
+globel's health is 9/22
+globel rolls a 12 and hits Eject for 2 damage!
+Eject's health is 0/9
+Eject dies!
+you level up!
+your dexterity went up!
+your strength went up!
+Picking up
+globel rolls a 11 and misses Strech
+globel rolls a 21 and hits Strech for 2 damage!
+Strech's health is 5/7
+globel rolls a 17 and hits Strech for 2 damage!
+Strech's health is 3/7
+globel rolls a 11 and misses Strech
+globel rolls a 17 and hits Strech for 4 damage!
+Strech's health is 0/7
+Strech dies!
+Purge the Purple Choggus's eyes glaze over
+globel rolls a 12 and hits Purge for 3 damage!
+Purge's health is 9/12
+globel rolls a 19 and hits Purge for 4 damage!
+Purge's health is 5/12
+Purge's health is 0/12
+Purge dies!
+A flash of heat flies acroos the room, dealing 7 points of damage!
+The Laser Blaster has 1 charge(s) left
+Picking up
+Eject's health is 0/9
+Eject dies!
+Heat and shrapnel fill the area dealing 10 points of damage!
+Picking up
+Picking up
+poking yourself with this right now would kill you!
+Hurl rolls a 3 and misses globel
+globel rolls a 5 and misses Hurl
+Hurl rolls a 15 and hits globel for 2 damage!
+globel's health is 2/22
+Hurl's health is 5/12
+A flash of heat flies acroos the room, dealing 7 points of damage!
+globel rolls a 12 and hits Hurl for 2 damage!
+Hurl's health is 3/12
+Hurl rolls a 13 and hits globel for 4 damage!
+globel's health is -2/22
+globel dies!

@@ -1,0 +1,275 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+Picking up
+lklk rolls a 23 and hits Pole for 3 damage!
+Pole's health is 4/7
+lklk rolls a 14 and hits Pole for 3 damage!
+Pole's health is 1/7
+lklk rolls a 15 and hits Pole for 4 damage!
+Pole's health is 0/7
+Pole dies!
+fido funnelweb CRITICALLY HITS lklk FOR 4 DAMAGE!
+lklk's health is 18/22
+fido funnelweb rolls a 11 and misses lklk
+fido funnelweb CRITICALLY HITS lklk FOR 4 DAMAGE!
+lklk's health is 14/22
+lklk rolls a 14 and hits fido funnelweb for 3 damage!
+fido funnelweb's health is 5/8
+fido funnelweb rolls a 10 and misses lklk
+lklk rolls a 14 and hits fido funnelweb for 2 damage!
+fido funnelweb's health is 3/8
+fido funnelweb rolls a 6 and misses lklk
+lklk rolls a 8 and misses fido funnelweb
+fido funnelweb rolls a 12 and hits lklk for 2 damage!
+lklk's health is 12/22
+lklk rolls a 7 and misses fido funnelweb
+fido funnelweb rolls a 10 and misses lklk
+lklk rolls a 15 and hits fido funnelweb for 2 damage!
+fido funnelweb's health is 1/8
+fido funnelweb rolls a 20 and hits lklk for 3 damage!
+lklk's health is 9/22
+lklk rolls a 7 and misses fido funnelweb
+fido funnelweb rolls a 10 and misses lklk
+lklk rolls a 12 and hits fido funnelweb for 3 damage!
+fido funnelweb's health is 0/8
+fido funnelweb dies!
+you level up!
+lklk rolls a 10 and misses Speedy
+lklk rolls a 16 and hits Speedy for 4 damage!
+Speedy's health is 3/7
+lklk rolls a 14 and hits Speedy for 3 damage!
+Speedy's health is 0/7
+Speedy dies!
+your dexterity went up!
+your strength went up!
+buddy recluse rolls a 18 and hits lklk for 4 damage!
+lklk's health is 5/22
+you descend into floor 2
+lklk the Globin healed for 10 health!
+Picking up
+Fetchup rolls a 8 and misses lklk
+lklk rolls a 8 and misses Fetchup
+Fetchup rolls a 11 and misses lklk
+lklk CRITICALLY HITS Fetchup FOR 6 DAMAGE!
+Fetchup's health is 6/12
+Fetchup rolls a 19 and hits lklk for 3 damage!
+lklk's health is 12/22
+lklk rolls a 9 and misses Fetchup
+Fetchup rolls a 19 and hits lklk for 2 damage!
+lklk's health is 10/22
+lklk rolls a 21 and hits Fetchup for 2 damage!
+Fetchup's health is 4/12
+Fetchup rolls a 12 and hits lklk for 3 damage!
+lklk's health is 7/22
+lklk rolls a 17 and hits Fetchup for 4 damage!
+Fetchup's health is 0/12
+Fetchup dies!
+Picking up
+lklk the Globin healed for 11 health!
+Strech rolls a 12 and hits Purge for 2 damage!
+Purge's health is 7/9
+Purge rolls a 7 and misses lklk
+lklk rolls a 15 and hits Purge for 4 damage!
+Purge's health is 3/9
+Purge rolls a 13 and hits lklk for 3 damage!
+lklk's health is 15/22
+lklk rolls a 4 and misses Purge
+Purge rolls a 5 and misses lklk
+lklk rolls a 7 and misses Purge
+Purge rolls a 13 and hits lklk for 2 damage!
+lklk's health is 13/22
+lklk rolls a 12 and hits Purge for 4 damage!
+Purge's health is 0/9
+Purge dies!
+you level up!
+Strech rolls a 18 and hits Lank for 1 damage!
+Lank's health is 6/7
+Strech rolls a 11 and misses Lank
+Strech rolls a 20 and hits Lank for 1 damage!
+Lank's health is 5/7
+Strech rolls a 3 and misses Lank
+Strech rolls a 18 and hits Lank for 1 damage!
+Lank's health is 4/7
+Strech rolls a 13 and hits Lank for 1 damage!
+Lank's health is 3/7
+Strech rolls a 7 and misses Lank
+Strech rolls a 12 and hits Lank for 1 damage!
+Lank's health is 2/7
+Strech rolls a 18 and hits Lank for 1 damage!
+Lank's health is 1/7
+Strech rolls a 7 and misses Lank
+lklk rolls a 8 and misses Strech
+Strech rolls a 4 and misses Lank
+lklk rolls a 8 and misses Strech
+Strech CRITICALLY HITS Lank FOR 4 DAMAGE!
+Lank's health is 0/7
+Lank dies!
+lklk rolls a 9 and misses Strech
+lklk rolls a 20 and hits Strech for 2 damage!
+Strech's health is 5/7
+lklk rolls a 10 and misses Strech
+lklk rolls a 13 and hits Strech for 4 damage!
+Strech's health is 1/7
+lklk rolls a 12 and hits Strech for 3 damage!
+Strech's health is 0/7
+Strech dies!
+you descend into floor 3, a powerful boss monster lurks in this floor
+Picking up
+lklk rolls a 19 and hits Discharge for 3 damage!
+Discharge's health is 5/8
+Discharge rolls a 23 and hits lklk for 2 damage!
+lklk's health is 11/22
+lklk rolls a 5 and misses Discharge
+Discharge rolls a 9 and misses lklk
+lklk CRITICALLY HITS Discharge FOR 6 DAMAGE!
+Discharge's health is 0/8
+Discharge dies!
+lklk rolls a 10 and misses Eject
+Eject rolls a 20 and hits lklk for 3 damage!
+lklk's health is 8/22
+lklk rolls a 20 and hits Eject for 4 damage!
+Eject's health is 7/11
+Eject rolls a 6 and misses lklk
+lklk rolls a 8 and misses Eject
+Eject rolls a 13 and hits lklk for 3 damage!
+lklk's health is 5/22
+lklk rolls a 21 and hits Eject for 3 damage!
+Eject's health is 4/11
+Eject rolls a 16 and hits lklk for 3 damage!
+lklk's health is 2/22
+lklk rolls a 5 and misses Eject
+Eject rolls a 7 and misses lklk
+lklk rolls a 23 and hits Eject for 4 damage!
+Eject's health is 0/11
+Eject dies!
+your constitution went up!
+your constitution went up!
+Picking up
+item equipped
+lklk CRITICALLY HITS Carrie FOR 8 DAMAGE!
+Carrie's health is 0/7
+Carrie dies!
+Picking up
+lklk the Globin healed for 7 health!
+lklk rolls a 21 and hits Cottie for 4 damage!
+Cottie's health is 5/9
+Cottie rolls a 7 and misses lklk
+lklk rolls a 8 and misses Cottie
+Cottie rolls a 10 and misses lklk
+lklk rolls a 10 and misses Cottie
+Cottie rolls a 7 and misses lklk
+lklk rolls a 15 and hits Cottie for 2 damage!
+Cottie's health is 3/9
+Cottie rolls a 6 and misses lklk
+lklk rolls a 17 and hits Cottie for 3 damage!
+Cottie's health is 0/9
+Cottie dies!
+you level up!
+Picking up
+lklk the Globin healed for 7 health!
+Potie rolls a 10 and misses lklk
+lklk rolls a 7 and misses Potie
+Potie rolls a 19 and hits lklk for 3 damage!
+lklk's health is 17/26
+lklk rolls a 18 and hits Potie for 3 damage!
+Potie's health is 4/7
+Potie rolls a 11 and misses lklk
+lklk CRITICALLY HITS Potie FOR 8 DAMAGE!
+Potie's health is 0/7
+Potie dies!
+Picking up
+lklk the Globin healed for 7 health!
+The serpent teleports!
+slider rolls a 4 and misses Hurl
+The serpent teleports!
+lklk rolls a 19 and hits Hurl for 3 damage!
+Hurl's health is 8/11
+Hurl rolls a 19 and hits lklk for 3 damage!
+lklk's health is 21/26
+lklk rolls a 7 and misses Hurl
+Hurl rolls a 19 and hits lklk for 4 damage!
+lklk's health is 17/26
+lklk rolls a 23 and hits Hurl for 2 damage!
+Hurl's health is 6/11
+Hurl rolls a 17 and hits lklk for 2 damage!
+lklk's health is 15/26
+lklk rolls a 21 and hits Hurl for 2 damage!
+Hurl's health is 4/11
+Hurl rolls a 20 and hits lklk for 4 damage!
+lklk's health is 11/26
+lklk rolls a 18 and hits Hurl for 4 damage!
+Hurl's health is 0/11
+Hurl dies!
+The serpent teleports!
+The serpent teleports!
+slider the SHIFTING SERPENT's eyes glaze over
+lklk rolls a 21 and hits slider for 2 damage!
+slider's health is 51/53
+slider rolls a 18 and hits lklk for 4 damage!
+lklk's health is 7/26
+lklk rolls a 11 and misses slider
+slider the SHIFTING SERPENT has broken free!
+lklk rolls a 6 and misses slider
+The serpent teleports!
+slider rolls a 19 and hits lklk for 3 damage!
+lklk's health is 4/26
+The serpent teleports!
+slider's health is 44/53
+Heat and shrapnel fill the area dealing 7 points of damage!
+lklk rolls a 12 and hits slider for 3 damage!
+slider's health is 41/53
+slider rolls a 7 and misses lklk
+lklk rolls a 20 and hits slider for 3 damage!
+slider's health is 38/53
+The serpent teleports!
+lklk rolls a 11 and misses slider
+slider rolls a 11 and misses lklk
+lklk rolls a 18 and hits slider for 2 damage!
+slider's health is 36/53
+The serpent teleports!
+The serpent teleports!
+slider rolls a 6 and misses lklk
+The serpent teleports!
+your dexterity went up!
+your constitution went up!
+lklk rolls a 22 and hits Ralph for 2 damage!
+Ralph's health is 9/11
+Ralph rolls a 13 and misses lklk
+lklk rolls a 24 and hits Ralph for 3 damage!
+Ralph's health is 6/11
+Ralph rolls a 11 and misses lklk
+lklk rolls a 14 and hits Ralph for 3 damage!
+Ralph's health is 3/11
+Ralph rolls a 8 and misses lklk
+lklk rolls a 9 and misses Ralph
+Ralph rolls a 10 and misses lklk
+lklk rolls a 5 and misses Ralph
+Ralph rolls a 17 and hits lklk for 2 damage!
+lklk's health is 5/29
+lklk rolls a 12 and hits Ralph for 3 damage!
+Ralph's health is 0/11
+Ralph dies!
+Picking up
+item equipped
+lklk rolls a 6 and misses slider
+The serpent teleports!
+slider rolls a 24 and hits sleight for 4 damage!
+sleight's health is 8/12
+lklk rolls a 14 and hits slider for 4 damage!
+slider's health is 32/53
+slider rolls a 6 and misses lklk
+lklk rolls a 19 and hits slider for 2 damage!
+slider's health is 30/53
+slider rolls a 7 and misses lklk
+lklk rolls a 24 and hits slider for 2 damage!
+slider's health is 28/53
+slider rolls a 14 and hits lklk for 3 damage!
+lklk's health is 2/29
+lklk CRITICALLY HITS slider FOR 6 DAMAGE!
+slider's health is 22/53
+slider rolls a 9 and misses lklk
+lklk rolls a 8 and misses slider
+slider rolls a 21 and hits lklk for 4 damage!
+lklk's health is -2/29
+lklk dies!

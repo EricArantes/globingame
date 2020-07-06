@@ -1,0 +1,85 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+globe rolls a 13 and hits Cabbie for 4 damage!
+Cabbie's health is 6/10
+Cabbie rolls a 19 and hits globe for 2 damage!
+globe's health is 20/22
+globe rolls a 14 and hits Cabbie for 4 damage!
+Cabbie's health is 2/10
+Cabbie rolls a 7 and misses globe
+globe rolls a 14 and hits Cabbie for 3 damage!
+Cabbie's health is 0/10
+Cabbie dies!
+globe rolls a 3 and misses Orie
+Orie rolls a 5 and misses globe
+globe rolls a 14 and hits Orie for 3 damage!
+Orie's health is 6/9
+Orie rolls a 4 and misses globe
+globe rolls a 23 and hits Orie for 3 damage!
+Orie's health is 3/9
+Orie rolls a 18 and hits globe for 4 damage!
+globe's health is 16/22
+globe rolls a 21 and hits Orie for 3 damage!
+Orie's health is 0/9
+Orie dies!
+you level up!
+Hempie rolls a 21 and hits globe for 3 damage!
+globe's health is 13/22
+globe rolls a 14 and hits Hempie for 3 damage!
+Hempie's health is 3/6
+Hempie rolls a 15 and hits globe for 3 damage!
+globe's health is 10/22
+globe rolls a 8 and misses Hempie
+Hempie rolls a 4 and misses globe
+globe rolls a 17 and hits Hempie for 3 damage!
+Hempie's health is 0/6
+Hempie dies!
+Picking up
+Picking up
+Picking up
+globe the Globin healed for 7 health!
+Picking up
+globe CRITICALLY HITS Speedy FOR 4 DAMAGE!
+Speedy's health is 3/7
+globe rolls a 15 and hits Speedy for 4 damage!
+Speedy's health is 0/7
+Speedy dies!
+your dexterity went up!
+your dexterity went up!
+globe CRITICALLY HITS Eject FOR 8 DAMAGE!
+Eject's health is 4/12
+Eject rolls a 5 and misses globe
+globe rolls a 15 and hits Eject for 4 damage!
+Eject's health is 0/12
+Eject dies!
+you descend into floor 2
+Picking up
+Lettie rolls a 16 and hits globe for 4 damage!
+globe's health is 13/22
+Hempie rolls a 6 and misses globe
+Hempie rolls a 9 and misses globe
+Discharge rolls a 18 and hits globe for 3 damage!
+globe's health is 10/22
+globe rolls a 5 and misses Discharge
+Discharge rolls a 11 and misses globe
+globe rolls a 9 and misses Discharge
+Discharge rolls a 5 and misses globe
+globe rolls a 6 and misses Discharge
+Discharge rolls a 12 and hits globe for 2 damage!
+globe's health is 8/22
+globe rolls a 4 and misses Discharge
+Discharge rolls a 11 and misses globe
+globe rolls a 9 and misses Discharge
+Discharge rolls a 14 and hits globe for 4 damage!
+globe's health is 4/22
+globe rolls a 6 and misses Discharge
+Discharge rolls a 19 and hits globe for 3 damage!
+globe's health is 1/22
+globe rolls a 7 and misses Discharge
+Discharge rolls a 5 and misses globe
+globe rolls a 15 and hits Discharge for 4 damage!
+Discharge's health is 5/9
+Discharge rolls a 17 and hits globe for 2 damage!
+globe's health is -1/22
+globe dies!

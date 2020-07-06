@@ -1,0 +1,74 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+Picking up
+Tomie rolls a 17 and hits globogu for 4 damage!
+globogu's health is 18/22
+globogu rolls a 6 and misses Tomie
+Tomie rolls a 6 and misses globogu
+globogu rolls a 9 and misses Tomie
+Tomie rolls a 9 and misses globogu
+globogu rolls a 6 and misses Tomie
+Tomie rolls a 17 and hits globogu for 2 damage!
+globogu's health is 16/22
+globogu rolls a 6 and misses Tomie
+Tomie rolls a 14 and hits globogu for 3 damage!
+globogu's health is 13/22
+globogu rolls a 11 and misses Tomie
+Tomie rolls a 5 and misses globogu
+globogu rolls a 21 and hits Tomie for 3 damage!
+Tomie's health is 7/10
+Tomie rolls a 23 and hits globogu for 3 damage!
+globogu's health is 10/22
+globogu rolls a 15 and hits Tomie for 2 damage!
+Tomie's health is 5/10
+Tomie rolls a 15 and hits globogu for 4 damage!
+globogu's health is 6/22
+globogu CRITICALLY HITS Tomie FOR 6 DAMAGE!
+Tomie's health is 0/10
+Tomie dies!
+Picking up
+globogu the Globin healed for 7 health!
+globogu the Globin healed for 6.0 health!
+Raddie rolls a 18 and hits globogu for 3 damage!
+globogu's health is 16.0/22
+globogu rolls a 8 and misses Raddie
+Raddie rolls a 3 and misses globogu
+globogu rolls a 23 and hits Raddie for 3 damage!
+Raddie's health is 7/10
+Raddie rolls a 12 and hits globogu for 3 damage!
+globogu's health is 13.0/22
+globogu rolls a 19 and hits Raddie for 4 damage!
+Raddie's health is 3/10
+Raddie rolls a 18 and hits globogu for 2 damage!
+globogu's health is 11.0/22
+globogu rolls a 18 and hits Raddie for 3 damage!
+Raddie's health is 0/10
+Raddie dies!
+you level up!
+Picking up
+Cottie rolls a 8 and misses globogu
+globogu rolls a 19 and hits Cottie for 3 damage!
+Cottie's health is 7/10
+Cottie rolls a 14 and hits globogu for 3 damage!
+globogu's health is 8.0/22
+globogu rolls a 5 and misses Cottie
+Cottie rolls a 20 and hits globogu for 2 damage!
+globogu's health is 6.0/22
+globogu rolls a 19 and hits Cottie for 3 damage!
+Cottie's health is 4/10
+Cottie rolls a 11 and misses globogu
+globogu rolls a 10 and misses Cottie
+Cottie rolls a 22 and hits globogu for 3 damage!
+globogu's health is 3.0/22
+globogu the Globin healed for 7 health!
+Cottie rolls a 24 and hits globogu for 2 damage!
+globogu's health is 8.0/22
+globogu rolls a 20 and hits Cottie for 2 damage!
+Cottie's health is 2/10
+Cottie CRITICALLY HITS globogu FOR 4 DAMAGE!
+globogu's health is 4.0/22
+globogu rolls a 5 and misses Cottie
+Cottie rolls a 17 and hits globogu for 4 damage!
+globogu's health is 0.0/22
+globogu dies!

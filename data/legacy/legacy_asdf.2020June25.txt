@@ -1,0 +1,170 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+item equipped
+Purge rolls a 13 and misses asdf
+asdf rolls a 13 and hits Purge for 3 damage!
+Purge's health is 5/8
+Purge rolls a 6 and misses asdf
+asdf rolls a 16 and hits Purge for 4 damage!
+Purge's health is 1/8
+Purge rolls a 5 and misses asdf
+asdf rolls a 9 and misses Purge
+Purge rolls a 3 and misses asdf
+asdf CRITICALLY HITS Purge FOR 4 DAMAGE!
+Purge's health is 0/8
+Purge dies!
+you descend into floor 2
+Picking up
+item equipped
+Hurl rolls a 15 and misses asdf
+asdf rolls a 7 and misses Slick
+Hurl rolls a 23 and hits asdf for 2 damage!
+asdf's health is 20/22
+Slick rolls a 12 and misses asdf
+Hurl rolls a 11 and misses asdf
+asdf rolls a 8 and misses Hurl
+Hurl rolls a 5 and misses asdf
+asdf rolls a 5 and misses Hurl
+Strech CRITICALLY HITS Legs FOR 2 DAMAGE!
+Legs's health is 5/7
+Hurl rolls a 5 and misses asdf
+asdf rolls a 14 and hits Hurl for 6 damage!
+Hurl's health is 6/12
+Strech CRITICALLY HITS Legs FOR 6 DAMAGE!
+Legs's health is 0/7
+Legs dies!
+you level up!
+Hurl rolls a 14 and misses asdf
+asdf rolls a 12 and hits Hurl for 5 damage!
+Hurl's health is 1/12
+Hurl rolls a 18 and hits asdf for 4 damage!
+asdf's health is 16/22
+asdf rolls a 5 and misses Hurl
+Hurl rolls a 9 and misses asdf
+asdf rolls a 19 and hits Hurl for 5 damage!
+Hurl's health is 0/12
+Hurl dies!
+your dexterity went up!
+your strength went up!
+asdf rolls a 11 and misses Retch
+Retch rolls a 9 and misses asdf
+asdf rolls a 9 and misses Retch
+Retch rolls a 5 and misses asdf
+asdf rolls a 20 and hits Retch for 6 damage!
+Retch's health is 3/9
+Retch rolls a 23 and hits asdf for 3 damage!
+asdf's health is 13/22
+asdf rolls a 8 and misses Retch
+Retch rolls a 16 and hits asdf for 3 damage!
+asdf's health is 10/22
+asdf rolls a 12 and hits Retch for 7 damage!
+Retch's health is 0/9
+Retch dies!
+Strech rolls a 20 and hits handsy for 2 damage!
+handsy's health is 9/11
+Picking up
+Strech CRITICALLY HITS handsy FOR 4 DAMAGE!
+handsy's health is 5/11
+Strech rolls a 22 and hits handsy for 3 damage!
+handsy's health is 2/11
+Strech rolls a 7 and misses handsy
+Strech rolls a 19 and hits handsy for 1 damage!
+handsy's health is 1/11
+Strech rolls a 12 and hits handsy for 2 damage!
+handsy's health is 0/11
+handsy dies!
+totorantula's health is 0/8
+totorantula dies!
+you level up!
+A flash of heat flies acroos the room, dealing 9 points of damage!
+The Laser Blaster has 2 charge(s) left
+asdf rolls a 22 and hits Strech for 6 damage!
+Strech's health is 1/7
+asdf rolls a 12 and hits Strech for 3 damage!
+Strech's health is 0/7
+Strech dies!
+Picking up
+Picking up
+asdf rolls a 23 and hits Slick for 7 damage!
+Slick's health is 12/19
+Slick rolls a 15 and misses asdf
+asdf rolls a 5 and misses Slick
+Slick rolls a 15 and misses asdf
+asdf rolls a 19 and hits Slick for 7 damage!
+Slick's health is 5/19
+Slick rolls a 16 and hits asdf for 6 damage!
+asdf's health is 4/22
+asdf the Globin healed for 8 health!
+Slick rolls a 12 and misses asdf
+asdf rolls a 12 and hits Slick for 6 damage!
+Slick's health is 0/19
+Slick dies!
+buddy recluse rolls a 7 and misses asdf
+buddy recluse rolls a 8 and misses asdf
+asdf rolls a 9 and misses buddy recluse
+buddy recluse rolls a 18 and hits asdf for 3 damage!
+asdf's health is 9/22
+asdf rolls a 5 and misses buddy recluse
+buddy recluse rolls a 17 and hits asdf for 3 damage!
+asdf's health is 6/22
+asdf rolls a 23 and hits buddy recluse for 6 damage!
+buddy recluse's health is 2/8
+buddy recluse rolls a 14 and misses asdf
+asdf rolls a 14 and hits buddy recluse for 6 damage!
+buddy recluse's health is 0/8
+buddy recluse dies!
+you descend into floor 3, a powerful boss monster lurks in this floor
+Picking up
+Picking up
+Picking up
+pussyfoot's health is 1/10
+A flash of heat flies acroos the room, dealing 9 points of damage!
+The Laser Blaster has 1 charge(s) left
+pussyfoot's health is 0/10
+pussyfoot dies!
+A flash of heat flies acroos the room, dealing 9 points of damage!
+Picking up
+Picking up
+asdf the Globin healed for 11 health!
+asdf CRITICALLY HITS Discharge FOR 14 DAMAGE!
+Discharge's health is 0/12
+Discharge dies!
+you level up!
+dry heave the XVIIII's health is 66/76
+Heat and shrapnel fill the area dealing 10 points of damage!
+dry heave the XVIIII rolls a 21 and hits asdf for 4 damage!
+asdf's health is 13/22
+asdf rolls a 16 and hits dry heave the XVIIII for 3 damage!
+dry heave the XVIIII's health is 63/76
+dry heave the XVIIII rolls a 21 and hits asdf for 3 damage!
+asdf's health is 10/22
+asdf rolls a 8 and misses dry heave the XVIIII
+dry heave the XVIIII rolls a 14 and misses asdf
+asdf rolls a 8 and misses dry heave the XVIIII
+dry heave the XVIIII rolls a 26 and hits asdf for 2 damage!
+asdf's health is 8/22
+asdf rolls a 16 and hits dry heave the XVIIII for 5 damage!
+dry heave the XVIIII's health is 58/76
+dry heave the XVIIII rolls a 13 and misses asdf
+asdf rolls a 10 and misses dry heave the XVIIII
+dry heave the XVIIII rolls a 9 and misses asdf
+asdf rolls a 14 and hits dry heave the XVIIII for 7 damage!
+dry heave the XVIIII's health is 51/76
+dry heave the XVIIII rolls a 9 and misses asdf
+asdf rolls a 23 and hits dry heave the XVIIII for 7 damage!
+dry heave the XVIIII's health is 44/76
+dry heave the XVIIII rolls a 25 and hits asdf for 2 damage!
+asdf's health is 6/22
+asdf rolls a 18 and hits dry heave the XVIIII for 3 damage!
+dry heave the XVIIII's health is 41/76
+dry heave the XVIIII rolls a 18 and hits asdf for 2 damage!
+asdf's health is 4/22
+asdf rolls a 9 and misses dry heave the XVIIII
+dry heave the XVIIII rolls a 17 and hits asdf for 3 damage!
+asdf's health is 1/22
+asdf rolls a 21 and hits dry heave the XVIIII for 3 damage!
+dry heave the XVIIII's health is 38/76
+dry heave the XVIIII rolls a 18 and hits asdf for 4 damage!
+asdf's health is -3/22
+asdf dies!

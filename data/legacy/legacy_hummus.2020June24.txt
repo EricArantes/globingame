@@ -1,0 +1,43 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+hummus rolls a 10 and misses Brake
+Brake rolls a 9 and misses hummus
+hummus rolls a 14 and hits Brake for 4 damage!
+Brake's health is 8/12
+Brake rolls a 4 and misses hummus
+hummus rolls a 7 and misses Brake
+Brake rolls a 8 and misses hummus
+hummus rolls a 7 and misses Brake
+Brake rolls a 9 and misses hummus
+hummus rolls a 18 and hits Brake for 4 damage!
+Brake's health is 4/12
+Brake rolls a 11 and misses hummus
+hummus rolls a 4 and misses Brake
+Brake rolls a 6 and misses hummus
+hummus rolls a 14 and hits Brake for 3 damage!
+Brake's health is 1/12
+Brake rolls a 9 and misses hummus
+hummus rolls a 20 and hits Brake for 2 damage!
+Brake's health is 0/12
+Brake dies!
+Picking up
+Ralph rolls a 6 and misses hummus
+Ralph rolls a 15 and hits hummus for 2 damage!
+hummus's health is 10/22
+hummus rolls a 20 and hits Ralph for 3 damage!
+Ralph's health is 7/10
+Ralph rolls a 13 and hits hummus for 3 damage!
+hummus's health is 7/22
+hummus rolls a 11 and misses Ralph
+Ralph rolls a 13 and hits hummus for 3 damage!
+hummus's health is 4/22
+hummus rolls a 8 and misses Ralph
+Ralph rolls a 23 and hits hummus for 2 damage!
+hummus's health is 2/22
+hummus rolls a 8 and misses Ralph
+Ralph rolls a 10 and misses hummus
+hummus rolls a 8 and misses Ralph
+Ralph rolls a 23 and hits hummus for 4 damage!
+hummus's health is -2/22
+hummus dies!

@@ -1,0 +1,161 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+asd CRITICALLY HITS Speedy FOR 8 DAMAGE!
+Speedy's health is 0/7
+Speedy dies!
+Picking up
+asd rolls a 14 and hits Brake for 3 damage!
+Brake's health is 6/9
+Brake rolls a 21 and hits asd for 2 damage!
+asd's health is 20/22
+asd rolls a 15 and hits Brake for 4 damage!
+Brake's health is 2/9
+Brake rolls a 10 and misses asd
+asd rolls a 9 and misses Brake
+Brake rolls a 3 and misses asd
+asd rolls a 10 and misses Brake
+Brake rolls a 19 and hits asd for 4 damage!
+asd's health is 16/22
+asd rolls a 18 and hits Brake for 2 damage!
+Brake's health is 0/9
+Brake dies!
+you level up!
+your dexterity went up!
+your strength went up!
+Picking up
+Picking up
+Picking up
+asd the Globin healed for 8.0 health!
+Carrie rolls a 7 and misses asd
+asd rolls a 7 and misses Carrie
+Carrie rolls a 20 and hits asd for 3 damage!
+asd's health is 19/22
+asd CRITICALLY HITS Carrie FOR 4 DAMAGE!
+Carrie's health is 2/6
+Carrie rolls a 16 and hits asd for 3 damage!
+asd's health is 16/22
+asd rolls a 11 and misses Carrie
+Carrie rolls a 11 and misses asd
+asd rolls a 14 and hits Carrie for 4 damage!
+Carrie's health is 0/6
+Carrie dies!
+Picking up
+asd the Globin healed for 7 health!
+Potie the podman's eyes glaze over
+asd rolls a 18 and hits Tomie for 2 damage!
+Tomie's health is 5/7
+Tomie rolls a 4 and misses asd
+asd rolls a 10 and misses Tomie
+Tomie rolls a 12 and hits asd for 4 damage!
+asd's health is 18/22
+asd rolls a 21 and hits Tomie for 2 damage!
+Tomie's health is 3/7
+Tomie rolls a 5 and misses asd
+asd rolls a 20 and hits Tomie for 3 damage!
+Tomie's health is 0/7
+Tomie dies!
+Picking up
+Potie the podman has broken free!
+Potie the podman's eyes glaze over
+asd rolls a 9 and misses Potie
+asd rolls a 7 and misses Potie
+asd rolls a 19 and hits Potie for 4 damage!
+Potie's health is 2/6
+asd rolls a 15 and hits Potie for 4 damage!
+Potie's health is 0/6
+Potie dies!
+Picking up
+asd the Globin healed for 7 health!
+Appie rolls a 14 and hits asd for 2 damage!
+asd's health is 20/22
+asd CRITICALLY HITS Appie FOR 8 DAMAGE!
+Appie's health is 1/9
+Appie rolls a 8 and misses asd
+asd rolls a 9 and misses Appie
+Appie rolls a 16 and hits asd for 4 damage!
+asd's health is 16/22
+asd rolls a 3 and misses Appie
+Appie rolls a 3 and misses asd
+asd rolls a 4 and misses Appie
+Appie rolls a 13 and hits asd for 4 damage!
+asd's health is 12/22
+asd rolls a 9 and misses Appie
+Appie rolls a 4 and misses asd
+asd rolls a 16 and hits Appie for 3 damage!
+Appie's health is 0/9
+Appie dies!
+you level up!
+Picking up
+Potie rolls a 18 and hits asd for 3 damage!
+asd's health is 9/22
+Potie the podman's eyes glaze over
+The Brain Scrambler has 1 charge(s) left
+asd the Globin healed for 7 health!
+asd the Globin healed for 7 health!
+asd rolls a 21 and hits Potie for 3 damage!
+Potie's health is 7/10
+Potie rolls a 15 and hits asd for 2 damage!
+asd's health is 20/22
+asd rolls a 3 and misses Potie
+asd rolls a 6 and misses Potie
+asd rolls a 13 and hits Potie for 2 damage!
+Potie's health is 5/10
+asd rolls a 21 and hits Potie for 4 damage!
+Potie's health is 1/10
+Potie the podman has broken free!
+asd rolls a 9 and misses Potie
+Potie rolls a 24 and hits asd for 4 damage!
+asd's health is 16/22
+Potie rolls a 8 and misses asd
+asd rolls a 4 and misses Potie
+Potie rolls a 11 and misses asd
+Potie rolls a 14 and hits asd for 2 damage!
+asd's health is 14/22
+asd rolls a 18 and hits Potie for 3 damage!
+Potie's health is 0/10
+Potie dies!
+Potie rolls a 6 and misses asd
+asd rolls a 19 and hits Potie for 2 damage!
+Potie's health is 4/6
+Potie rolls a 7 and misses asd
+asd rolls a 8 and misses Potie
+Potie rolls a 11 and misses asd
+asd rolls a 16 and hits Potie for 3 damage!
+Potie's health is 1/6
+Potie rolls a 6 and misses asd
+asd rolls a 17 and hits Potie for 3 damage!
+Potie's health is 0/6
+Potie dies!
+Picking up
+Picking up
+asd the Globin healed for 7 health!
+asd the Globin healed for 7 health!
+your dexterity went up!
+your strength went up!
+Picking up
+Picking up
+Tomie rolls a 7 and misses asd
+Raddie rolls a 5 and misses asd
+Tomie rolls a 17 and hits asd for 4 damage!
+asd's health is 18/22
+asd rolls a 18 and hits Tomie for 3 damage!
+Tomie's health is 3/6
+Tomie rolls a 12 and hits asd for 3 damage!
+asd's health is 15/22
+asd rolls a 13 and hits Tomie for 3 damage!
+Tomie's health is 0/6
+Tomie dies!
+asd rolls a 10 and misses Raddie
+Raddie CRITICALLY HITS asd FOR 6 DAMAGE!
+asd's health is 9/22
+asd rolls a 18 and hits Raddie for 3 damage!
+Raddie's health is 6/9
+Raddie rolls a 7 and misses asd
+asd rolls a 8 and misses Raddie
+Raddie CRITICALLY HITS asd FOR 8 DAMAGE!
+asd's health is 1/22
+asd rolls a 9 and misses Raddie
+Raddie rolls a 18 and hits asd for 2 damage!
+asd's health is -1/22
+asd dies!

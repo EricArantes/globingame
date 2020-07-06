@@ -1,0 +1,182 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+item equipped
+loopb rolls a 6 and misses Raddie
+Raddie rolls a 8 and misses loopb
+loopb CRITICALLY HITS Raddie FOR 8 DAMAGE!
+Raddie's health is 1/9
+Raddie rolls a 11 and misses loopb
+loopb rolls a 18 and hits Raddie for 4 damage!
+Raddie's health is 0/9
+Raddie dies!
+loopb rolls a 14 and hits Potie for 2 damage!
+Potie's health is 8/10
+Potie CRITICALLY HITS loopb FOR 8 DAMAGE!
+loopb's health is 14/22
+loopb rolls a 25 and hits Potie for 5 damage!
+Potie's health is 3/10
+Potie rolls a 9 and misses loopb
+loopb CRITICALLY HITS Potie FOR 6 DAMAGE!
+Potie's health is 0/10
+Potie dies!
+you level up!
+loopb rolls a 7 and misses Hempie
+Hempie rolls a 9 and misses loopb
+loopb rolls a 7 and misses Hempie
+Hempie rolls a 10 and misses loopb
+loopb CRITICALLY HITS Hempie FOR 4 DAMAGE!
+Hempie's health is 6/10
+Hempie rolls a 9 and misses loopb
+loopb rolls a 15 and hits Hempie for 4 damage!
+Hempie's health is 2/10
+Hempie rolls a 11 and misses loopb
+loopb rolls a 7 and misses Hempie
+Hempie rolls a 19 and hits loopb for 4 damage!
+loopb's health is 10/22
+loopb rolls a 22 and hits Hempie for 3 damage!
+Hempie's health is 0/10
+Hempie dies!
+Picking up
+Picking up
+Picking up
+Picking up
+Picking up
+loopb the Globin healed for 7 health!
+your dexterity went up!
+loopb the Globin healed for 7 health!
+oscar orbweaver rolls a 18 and hits loopb for 3 damage!
+loopb's health is 16/22
+oscar orbweaver rolls a 21 and hits loopb for 4 damage!
+loopb's health is 12/22
+oscar orbweaver rolls a 14 and hits loopb for 4 damage!
+loopb's health is 8/22
+loopb rolls a 13 and hits oscar orbweaver for 3 damage!
+oscar orbweaver's health is 5/8
+oscar orbweaver rolls a 19 and hits loopb for 2 damage!
+loopb's health is 6/22
+loopb the Globin healed for 7 health!
+oscar orbweaver rolls a 21 and hits loopb for 4 damage!
+loopb's health is 9/22
+loopb rolls a 12 and hits oscar orbweaver for 2 damage!
+oscar orbweaver's health is 3/8
+oscar orbweaver rolls a 9 and misses loopb
+loopb rolls a 12 and hits oscar orbweaver for 5 damage!
+oscar orbweaver's health is 0/8
+oscar orbweaver dies!
+Picking up
+loopb the Globin healed for 10.0 health!
+you descend into floor 2
+Picking up
+loopb rolls a 8 and misses Ralph
+Ralph rolls a 16 and hits loopb for 2 damage!
+loopb's health is 17.0/22
+loopb rolls a 22 and hits Ralph for 2 damage!
+Ralph's health is 7/9
+Ralph rolls a 23 and hits loopb for 3 damage!
+loopb's health is 14.0/22
+loopb rolls a 14 and hits Ralph for 5 damage!
+Ralph's health is 2/9
+Ralph rolls a 6 and misses loopb
+loopb CRITICALLY HITS Ralph FOR 10 DAMAGE!
+Ralph's health is 0/9
+Ralph dies!
+you level up!
+your dexterity went up!
+your dexterity went up!
+your strength went up!
+your strength went up!
+oscar orbweaver rolls a 22 and hits loopb for 2 damage!
+loopb's health is 12.0/22
+oscar orbweaver rolls a 18 and hits loopb for 4 damage!
+loopb's health is 8.0/22
+oscar orbweaver rolls a 26 and hits loopb for 3 damage!
+loopb's health is 5.0/22
+loopb rolls a 24 and hits oscar orbweaver for 3 damage!
+oscar orbweaver's health is 3/6
+oscar orbweaver rolls a 17 and hits loopb for 3 damage!
+loopb's health is 2.0/22
+loopb rolls a 12 and hits oscar orbweaver for 4 damage!
+oscar orbweaver's health is 0/6
+oscar orbweaver dies!
+Picking up
+loopb the Globin healed for 9 health!
+loopb rolls a 8 and misses Brake
+Brake rolls a 7 and misses loopb
+loopb rolls a 17 and hits Brake for 5 damage!
+Brake's health is 3/8
+Brake rolls a 13 and hits loopb for 4 damage!
+loopb's health is 7.0/22
+loopb rolls a 20 and hits Brake for 5 damage!
+Brake's health is 0/8
+Brake dies!
+loopb rolls a 7 and misses Speedy
+loopb rolls a 20 and hits Speedy for 5 damage!
+Speedy's health is 2/7
+loopb rolls a 8 and misses Speedy
+loopb rolls a 9 and misses Speedy
+loopb rolls a 12 and hits Speedy for 2 damage!
+Speedy's health is 0/7
+Speedy dies!
+you descend into floor 3, a powerful boss monster lurks in this floor
+Picking up
+loopb the Globin healed for 11 health!
+the space wizard pushes you with his magic!
+loopb rolls a 16 and hits Ralph for 2 damage!
+Ralph's health is 7/9
+Ralph rolls a 14 and hits loopb for 3 damage!
+loopb's health is 15.0/22
+loopb rolls a 7 and misses Ralph
+Ralph rolls a 7 and misses loopb
+loopb rolls a 6 and misses Ralph
+Ralph rolls a 5 and misses loopb
+loopb rolls a 20 and hits Ralph for 2 damage!
+Ralph's health is 5/9
+Ralph rolls a 4 and misses loopb
+loopb rolls a 10 and misses Ralph
+Ralph rolls a 10 and misses loopb
+loopb rolls a 9 and misses Ralph
+Ralph rolls a 12 and misses loopb
+loopb rolls a 12 and hits Ralph for 4 damage!
+Ralph's health is 1/9
+Ralph rolls a 5 and misses loopb
+loopb rolls a 26 and hits Ralph for 4 damage!
+Ralph's health is 0/9
+Ralph dies!
+the space wizard pushes you with his magic!
+shwimble dee pee rolls a 24 and hits loopb for 3 damage!
+loopb's health is 12.0/22
+the space wizard pushes you with his magic!
+shwimble dee pee rolls a 16 and hits loopb for 3 damage!
+loopb's health is 9.0/22
+shwimble dee pee rolls a 12 and misses loopb
+the space wizard pushes you with his magic!
+shwimble dee pee's health is 26/38
+A flash of heat flies acroos the room, dealing 12 points of damage!
+The Laser Blaster has 1 charge(s) left
+the space wizard pushes you with his magic!
+shwimble dee pee's health is 14/38
+A flash of heat flies acroos the room, dealing 12 points of damage!
+shwimble dee pee rolls a 9 and misses loopb
+loopb rolls a 23 and hits shwimble dee pee for 3 damage!
+shwimble dee pee's health is 11/38
+the space wizard pushes you with his magic!
+loopb rolls a 21 and hits shwimble dee pee for 4 damage!
+shwimble dee pee's health is 7/38
+shwimble dee pee CRITICALLY HITS loopb FOR 4 DAMAGE!
+loopb's health is 5.0/22
+loopb rolls a 17 and hits shwimble dee pee for 2 damage!
+shwimble dee pee's health is 5/38
+shwimble dee pee rolls a 11 and misses loopb
+loopb rolls a 19 and hits shwimble dee pee for 5 damage!
+shwimble dee pee's health is 0/38
+shwimble dee pee dies!
+you level up!
+Picking up
+Picking up
+item equipped
+Belch rolls a 21 and hits loopb for 2 damage!
+loopb's health is 3.0/22
+Belch CRITICALLY HITS loopb FOR 6 DAMAGE!
+loopb's health is -3.0/22
+loopb dies!

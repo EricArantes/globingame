@@ -1,0 +1,22 @@
+******THIS CHARACTER LOST!******
+Press h for help
+Picking up
+asdasd rolls a 6 and misses Hurl
+Hurl rolls a 15 and hits asdasd for 4 damage!
+asdasd's health is 18/22
+asdasd CRITICALLY HITS Hurl FOR 8 DAMAGE!
+Hurl's health is 0/8
+Hurl dies!
+you level up!
+asdasd rolls a 8 and misses Slither
+Slither rolls a 17 and hits asdasd for 5 damage!
+asdasd's health is 13/22
+asdasd rolls a 14 and hits Slither for 3 damage!
+Slither's health is 18/21
+Slither CRITICALLY HITS asdasd FOR 8 DAMAGE!
+asdasd's health is 5/22
+asdasd rolls a 12 and hits Slither for 4 damage!
+Slither's health is 14/21
+Slither rolls a 22 and hits asdasd for 7 damage!
+asdasd's health is -2/22
+asdasd dies!

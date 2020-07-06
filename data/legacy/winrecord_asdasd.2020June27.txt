@@ -1,0 +1,1349 @@
+******THIS CHARACTER WON!******
+Press h for help
+Picking up
+item equipped
+asdasd rolls a 6 and misses Wammie
+Wammie rolls a 7 and misses asdasd
+asdasd rolls a 18 and hits Wammie for 2 damage!
+Wammie's health is 7/9
+Wammie rolls a 7 and misses asdasd
+asdasd rolls a 16 and hits Wammie for 4 damage!
+Wammie's health is 3/9
+Wammie rolls a 10 and misses asdasd
+asdasd rolls a 14 and hits Wammie for 2 damage!
+Wammie's health is 1/9
+Wammie rolls a 12 and hits asdasd for 4 damage!
+asdasd's health is 18/22
+asdasd rolls a 13 and hits Wammie for 3 damage!
+Wammie's health is 0/9
+Wammie dies!
+asdasd rolls a 10 and misses Cottie
+Cottie rolls a 3 and misses asdasd
+asdasd rolls a 16 and hits Cottie for 3 damage!
+Cottie's health is 7/10
+Cottie rolls a 7 and misses asdasd
+asdasd rolls a 9 and misses Cottie
+Cottie rolls a 18 and hits asdasd for 3 damage!
+asdasd's health is 15/22
+asdasd rolls a 21 and hits Cottie for 3 damage!
+Cottie's health is 4/10
+Cottie rolls a 3 and misses asdasd
+asdasd rolls a 14 and hits Cottie for 3 damage!
+Cottie's health is 1/10
+Cottie rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 13/22
+asdasd rolls a 10 and misses Cottie
+Cottie rolls a 10 and misses asdasd
+asdasd rolls a 18 and hits Cottie for 4 damage!
+Cottie's health is 0/10
+Cottie dies!
+you level up!
+Picking up
+Picking up
+Item Dropped!
+Picking up
+asdasd rolls a 5 and misses Orie
+Orie rolls a 18 and hits asdasd for 4 damage!
+asdasd's health is 18/30
+asdasd rolls a 16 and hits Orie for 4 damage!
+Orie's health is 6/10
+Orie rolls a 9 and misses asdasd
+asdasd rolls a 19 and hits Orie for 2 damage!
+Orie's health is 4/10
+Orie CRITICALLY HITS asdasd FOR 6 DAMAGE!
+asdasd's health is 12/30
+asdasd rolls a 6 and misses Orie
+Orie rolls a 13 and hits asdasd for 3 damage!
+asdasd's health is 9/30
+asdasd rolls a 17 and hits Orie for 4 damage!
+Orie's health is 0/10
+Orie dies!
+Picking up
+Picking up
+your strength went up!
+your dexterity went up!
+you eat the item for 7 hitpoints!
+asdasd rolls a 12 and hits Fetchup for 2 damage!
+Fetchup's health is 8/10
+Fetchup CRITICALLY HITS asdasd FOR 8 DAMAGE!
+asdasd's health is 8/30
+asdasd rolls a 18 and hits Fetchup for 3 damage!
+Fetchup's health is 5/10
+Fetchup rolls a 9 and misses asdasd
+asdasd rolls a 12 and hits Fetchup for 2 damage!
+Fetchup's health is 3/10
+Fetchup rolls a 8 and misses asdasd
+asdasd rolls a 12 and hits Fetchup for 2 damage!
+Fetchup's health is 1/10
+Fetchup rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 5/30
+you eat the item for 7 hitpoints!
+Fetchup rolls a 7 and misses asdasd
+asdasd rolls a 11 and misses Fetchup
+Fetchup CRITICALLY HITS asdasd FOR 6 DAMAGE!
+asdasd's health is 6/30
+asdasd rolls a 10 and misses Fetchup
+Fetchup rolls a 4 and misses asdasd
+asdasd rolls a 4 and misses Fetchup
+Fetchup rolls a 7 and misses asdasd
+asdasd CRITICALLY HITS Fetchup FOR 6 DAMAGE!
+Fetchup's health is 0/10
+Fetchup dies!
+Picking up
+Picking up
+Item Dropped!
+Item Dropped!
+Picking up
+you eat the item for 3 hitpoints!
+you eat the item for 7 hitpoints!
+asdasd rolls a 23 and hits Brake for 3 damage!
+Brake's health is 8/11
+Brake rolls a 9 and misses asdasd
+asdasd rolls a 11 and misses Brake
+Brake rolls a 11 and misses asdasd
+asdasd rolls a 12 and hits Brake for 3 damage!
+Brake's health is 5/11
+Brake rolls a 15 and hits asdasd for 3 damage!
+asdasd's health is 13/30
+asdasd rolls a 10 and misses Brake
+Brake rolls a 21 and hits asdasd for 2 damage!
+asdasd's health is 11/30
+asdasd rolls a 21 and hits Brake for 2 damage!
+Brake's health is 3/11
+Brake rolls a 6 and misses asdasd
+asdasd rolls a 14 and hits Brake for 4 damage!
+Brake's health is 0/11
+Brake dies!
+you level up!
+Picking up
+your strength went up!
+your dexterity went up!
+asdasd rolls a 13 and hits Carrie for 4 damage!
+Carrie's health is 5/9
+Carrie rolls a 5 and misses asdasd
+asdasd rolls a 15 and hits Carrie for 2 damage!
+Carrie's health is 3/9
+Carrie CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 15/39
+asdasd rolls a 14 and hits Carrie for 3 damage!
+Carrie's health is 0/9
+Carrie dies!
+Picking up
+asdasd rolls a 3 and misses Tomie
+Tomie rolls a 9 and misses asdasd
+asdasd rolls a 20 and hits Tomie for 4 damage!
+Tomie's health is 3/7
+Tomie rolls a 19 and hits asdasd for 4 damage!
+asdasd's health is 11/39
+asdasd rolls a 19 and hits Tomie for 3 damage!
+Tomie's health is 0/7
+Tomie dies!
+asdasd CRITICALLY HITS Potie FOR 8 DAMAGE!
+Potie's health is 0/6
+Potie dies!
+Picking up
+Picking up
+you eat the item for 7 hitpoints!
+you eat the item for 7 hitpoints!
+asdasd rolls a 13 and hits Brake for 2 damage!
+Brake's health is 11/13
+Brake rolls a 17 and hits asdasd for 4 damage!
+asdasd's health is 21/39
+asdasd rolls a 7 and misses Brake
+Brake rolls a 11 and misses asdasd
+asdasd rolls a 14 and hits Brake for 4 damage!
+Brake's health is 7/13
+Brake rolls a 13 and hits asdasd for 2 damage!
+asdasd's health is 19/39
+asdasd rolls a 16 and hits Brake for 4 damage!
+Brake's health is 3/13
+Brake rolls a 15 and hits asdasd for 2 damage!
+asdasd's health is 17/39
+asdasd rolls a 5 and misses Brake
+Brake rolls a 19 and hits asdasd for 3 damage!
+asdasd's health is 14/39
+asdasd rolls a 18 and hits Brake for 3 damage!
+Brake's health is 0/13
+Brake dies!
+Picking up
+Picking up
+Picking up
+you eat the item for 3 hitpoints!
+you eat the item for 7 hitpoints!
+you eat the item for 3 hitpoints!
+bella widow rolls a 14 and hits asdasd for 3 damage!
+asdasd's health is 24/39
+bella widow rolls a 9 and misses asdasd
+asdasd rolls a 4 and misses bella widow
+bella widow rolls a 16 and hits asdasd for 4 damage!
+asdasd's health is 20/39
+asdasd rolls a 8 and misses bella widow
+bella widow rolls a 22 and hits asdasd for 3 damage!
+asdasd's health is 17/39
+asdasd rolls a 18 and hits bella widow for 3 damage!
+bella widow's health is 4/7
+bella widow rolls a 19 and hits asdasd for 2 damage!
+asdasd's health is 15/39
+asdasd rolls a 9 and misses bella widow
+bella widow rolls a 8 and misses asdasd
+asdasd rolls a 5 and misses bella widow
+bella widow rolls a 12 and hits asdasd for 4 damage!
+asdasd's health is 11/39
+asdasd rolls a 7 and misses bella widow
+bella widow rolls a 15 and hits asdasd for 3 damage!
+asdasd's health is 8/39
+asdasd rolls a 15 and hits bella widow for 4 damage!
+bella widow's health is 0/7
+bella widow dies!
+you level up!
+Picking up
+Picking up
+your strength went up!
+your dexterity went up!
+asdasd the Globin healed for 8 health!
+you eat the item for 6 hitpoints!
+you descend into floor 2
+Picking up
+asdasd rolls a 14 and hits Appie for 4 damage!
+Appie's health is 6/10
+Appie rolls a 18 and hits asdasd for 4 damage!
+asdasd's health is 27/52
+asdasd rolls a 9 and misses Appie
+Appie rolls a 4 and misses asdasd
+asdasd rolls a 21 and hits Appie for 4 damage!
+Appie's health is 2/10
+Appie rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 24/52
+asdasd rolls a 7 and misses Appie
+Appie rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 22/52
+asdasd rolls a 17 and hits Appie for 3 damage!
+Appie's health is 0/10
+Appie dies!
+Picking up
+Lettie rolls a 3 and misses asdasd
+asdasd rolls a 19 and hits Lettie for 4 damage!
+Lettie's health is 4/8
+Lettie CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 18/52
+asdasd rolls a 18 and hits Lettie for 4 damage!
+Lettie's health is 0/8
+Lettie dies!
+Picking up
+asdasd rolls a 4 and misses Raddie
+Raddie rolls a 8 and misses asdasd
+asdasd rolls a 18 and hits Raddie for 4 damage!
+Raddie's health is 5/9
+Raddie rolls a 4 and misses asdasd
+asdasd rolls a 21 and hits Raddie for 3 damage!
+Raddie's health is 2/9
+Raddie rolls a 10 and misses asdasd
+asdasd rolls a 17 and hits Raddie for 4 damage!
+Raddie's health is 0/9
+Raddie dies!
+Picking up
+you eat the item for 7 hitpoints!
+you eat the item for 7 hitpoints!
+you eat the item for 7 hitpoints!
+item equipped
+sneak CRITICALLY HITS asdasd FOR 6 DAMAGE!
+asdasd's health is 33/52
+asdasd rolls a 8 and misses sneak
+sneak rolls a 18 and hits asdasd for 1 damage!
+asdasd's health is 32/52
+asdasd rolls a 19 and hits sneak for 2 damage!
+sneak's health is 9/11
+sneak rolls a 12 and misses asdasd
+asdasd rolls a 11 and misses sneak
+sneak rolls a 15 and hits asdasd for 3 damage!
+asdasd's health is 29/52
+asdasd rolls a 20 and hits sneak for 2 damage!
+sneak's health is 7/11
+sneak rolls a 20 and hits asdasd for 3 damage!
+asdasd's health is 26/52
+asdasd rolls a 21 and hits sneak for 2 damage!
+sneak's health is 5/11
+sneak rolls a 13 and misses asdasd
+asdasd rolls a 24 and hits sneak for 5 damage!
+sneak's health is 0/11
+sneak dies!
+Picking up
+Picking up
+Hempie rolls a 11 and misses asdasd
+asdasd rolls a 19 and hits Hempie for 4 damage!
+Hempie's health is 4/8
+Hempie rolls a 7 and misses asdasd
+asdasd rolls a 16 and hits Hempie for 3 damage!
+Hempie's health is 1/8
+Hempie rolls a 14 and misses asdasd
+asdasd rolls a 17 and hits Hempie for 4 damage!
+Hempie's health is 0/8
+Hempie dies!
+Picking up
+you eat the item for 7 hitpoints!
+asdasd rolls a 20 and hits Orie for 5 damage!
+Orie's health is 2/7
+Orie rolls a 12 and misses asdasd
+asdasd rolls a 4 and misses Orie
+Orie rolls a 8 and misses asdasd
+asdasd rolls a 10 and misses Orie
+Orie rolls a 17 and hits asdasd for 3 damage!
+asdasd's health is 30/52
+asdasd rolls a 20 and hits Orie for 3 damage!
+Orie's health is 0/7
+Orie dies!
+Picking up
+asdasd rolls a 13 and hits Appie for 4 damage!
+Appie's health is 5/9
+Appie rolls a 17 and hits asdasd for 1 damage!
+asdasd's health is 29/52
+asdasd rolls a 14 and hits Appie for 2 damage!
+Appie's health is 3/9
+Appie rolls a 4 and misses asdasd
+asdasd rolls a 9 and misses Appie
+Appie rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 27/52
+asdasd rolls a 10 and misses Appie
+Appie rolls a 20 and hits asdasd for 1 damage!
+asdasd's health is 26/52
+asdasd rolls a 15 and hits Appie for 4 damage!
+Appie's health is 0/9
+Appie dies!
+Picking up
+Picking up
+you eat the item for 7 hitpoints!
+you eat the item for 7 hitpoints!
+asdasd rolls a 10 and misses Purge
+Purge rolls a 15 and hits asdasd for 1 damage!
+asdasd's health is 39/52
+asdasd rolls a 22 and hits Purge for 2 damage!
+Purge's health is 10/12
+Purge rolls a 9 and misses asdasd
+asdasd rolls a 22 and hits Purge for 2 damage!
+Purge's health is 8/12
+Purge rolls a 9 and misses asdasd
+asdasd rolls a 7 and misses Purge
+Purge rolls a 21 and hits asdasd for 2 damage!
+asdasd's health is 37/52
+asdasd rolls a 6 and misses Purge
+Purge rolls a 3 and misses asdasd
+asdasd rolls a 7 and misses Purge
+Purge rolls a 12 and misses asdasd
+asdasd rolls a 4 and misses Purge
+Purge rolls a 8 and misses asdasd
+asdasd rolls a 6 and misses Purge
+Purge rolls a 17 and hits asdasd for 3 damage!
+asdasd's health is 34/52
+asdasd rolls a 8 and misses Purge
+Purge rolls a 13 and misses asdasd
+asdasd rolls a 22 and hits Purge for 3 damage!
+Purge's health is 5/12
+Purge rolls a 23 and hits asdasd for 2 damage!
+asdasd's health is 32/52
+asdasd rolls a 10 and misses Purge
+Purge rolls a 23 and hits asdasd for 2 damage!
+asdasd's health is 30/52
+asdasd rolls a 22 and hits Purge for 5 damage!
+Purge's health is 0/12
+Purge dies!
+Picking up
+pinch rolls a 15 and hits asdasd for 2 damage!
+asdasd's health is 28/52
+asdasd rolls a 13 and hits pinch for 3 damage!
+pinch's health is 8/11
+pinch rolls a 25 and hits asdasd for 3 damage!
+asdasd's health is 25/52
+asdasd rolls a 9 and misses pinch
+pinch rolls a 17 and hits asdasd for 1 damage!
+asdasd's health is 24/52
+asdasd rolls a 24 and hits pinch for 2 damage!
+pinch's health is 6/11
+pinch rolls a 13 and misses asdasd
+asdasd rolls a 18 and hits pinch for 3 damage!
+pinch's health is 3/11
+pinch rolls a 15 and hits asdasd for 2 damage!
+asdasd's health is 22/52
+asdasd rolls a 19 and hits pinch for 4 damage!
+pinch's health is 0/11
+pinch dies!
+you level up!
+Picking up
+Picking up
+Picking up
+item equipped
+asdasd the Globin healed for 7 health!
+you eat the item for 3 hitpoints!
+Potie rolls a 18 and hits asdasd for 2 damage!
+asdasd's health is 37/60
+Potie rolls a 12 and misses asdasd
+Potie rolls a 9 and misses asdasd
+asdasd rolls a 14 and hits Potie for 5 damage!
+Potie's health is 5/10
+Potie rolls a 18 and hits asdasd for 1 damage!
+asdasd's health is 36/60
+Potie rolls a 20 and hits asdasd for 1 damage!
+asdasd's health is 35/60
+asdasd rolls a 22 and hits Potie for 3 damage!
+Potie's health is 2/10
+Potie rolls a 18 and hits asdasd for 3 damage!
+asdasd's health is 32/60
+Potie rolls a 12 and misses asdasd
+asdasd rolls a 7 and misses Potie
+Potie rolls a 16 and hits asdasd for 3 damage!
+asdasd's health is 29/60
+Potie rolls a 22 and hits asdasd for 2 damage!
+asdasd's health is 27/60
+asdasd rolls a 12 and hits Potie for 5 damage!
+Potie's health is 0/10
+Potie dies!
+Potie rolls a 5 and misses asdasd
+asdasd rolls a 10 and misses Potie
+Potie rolls a 4 and misses asdasd
+asdasd rolls a 5 and misses Potie
+Potie rolls a 11 and misses asdasd
+asdasd rolls a 16 and hits Potie for 3 damage!
+Potie's health is 4/7
+Potie rolls a 12 and misses asdasd
+asdasd rolls a 9 and misses Potie
+Potie rolls a 20 and hits asdasd for 1 damage!
+asdasd's health is 26/60
+asdasd CRITICALLY HITS Potie FOR 6 DAMAGE!
+Potie's health is 0/7
+Potie dies!
+Picking up
+Picking up
+you eat the item for 7 hitpoints!
+you eat the item for 7 hitpoints!
+Carrie rolls a 14 and misses asdasd
+Carrie rolls a 9 and misses asdasd
+asdasd rolls a 14 and hits Carrie for 4 damage!
+Carrie's health is 3/7
+Carrie rolls a 17 and hits asdasd for 3 damage!
+asdasd's health is 37/60
+asdasd rolls a 9 and misses Carrie
+Carrie rolls a 9 and misses asdasd
+asdasd rolls a 13 and hits Carrie for 2 damage!
+Carrie's health is 1/7
+Carrie rolls a 20 and hits asdasd for 1 damage!
+asdasd's health is 36/60
+asdasd rolls a 4 and misses Carrie
+Carrie rolls a 11 and misses asdasd
+asdasd rolls a 12 and hits Carrie for 3 damage!
+Carrie's health is 0/7
+Carrie dies!
+Picking up
+you eat the item for 7 hitpoints!
+Squeeze rolls a 24 and hits asdasd for 2 damage!
+asdasd's health is 41/60
+asdasd rolls a 14 and hits Squeeze for 2 damage!
+Squeeze's health is 14/16
+Squeeze rolls a 22 and hits asdasd for 1 damage!
+asdasd's health is 40/60
+asdasd rolls a 22 and hits Squeeze for 4 damage!
+Squeeze's health is 10/16
+Squeeze rolls a 12 and misses asdasd
+asdasd rolls a 8 and misses Squeeze
+Squeeze rolls a 13 and misses asdasd
+asdasd rolls a 16 and hits Squeeze for 5 damage!
+Squeeze's health is 5/16
+Squeeze rolls a 4 and misses asdasd
+asdasd rolls a 20 and hits Squeeze for 4 damage!
+Squeeze's health is 1/16
+Squeeze rolls a 11 and misses asdasd
+asdasd rolls a 13 and hits Squeeze for 5 damage!
+Squeeze's health is 0/16
+Squeeze dies!
+Picking up
+wolf dog rolls a 7 and misses asdasd
+wolf dog rolls a 14 and misses asdasd
+wolf dog rolls a 17 and hits asdasd for 1 damage!
+asdasd's health is 39/60
+Fetchup rolls a 8 and misses asdasd
+asdasd rolls a 5 and misses wolf dog
+wolf dog rolls a 6 and misses asdasd
+Fetchup rolls a 14 and misses asdasd
+asdasd rolls a 6 and misses wolf dog
+wolf dog rolls a 9 and misses asdasd
+Fetchup rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 37/60
+asdasd rolls a 11 and misses wolf dog
+wolf dog rolls a 7 and misses asdasd
+Fetchup rolls a 5 and misses asdasd
+asdasd rolls a 9 and misses wolf dog
+wolf dog rolls a 21 and hits asdasd for 1 damage!
+asdasd's health is 36/60
+Fetchup rolls a 6 and misses asdasd
+asdasd rolls a 16 and hits wolf dog for 4 damage!
+wolf dog's health is 4/8
+wolf dog rolls a 15 and hits asdasd for 1 damage!
+asdasd's health is 35/60
+Fetchup rolls a 12 and misses asdasd
+asdasd rolls a 9 and misses wolf dog
+wolf dog rolls a 9 and misses asdasd
+Fetchup rolls a 12 and misses asdasd
+asdasd rolls a 6 and misses wolf dog
+wolf dog rolls a 16 and hits asdasd for 3 damage!
+asdasd's health is 32/60
+Fetchup rolls a 7 and misses asdasd
+asdasd rolls a 5 and misses wolf dog
+wolf dog CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 28/60
+Fetchup rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 26/60
+asdasd rolls a 4 and misses wolf dog
+wolf dog rolls a 21 and hits asdasd for 2 damage!
+asdasd's health is 24/60
+Fetchup rolls a 15 and hits asdasd for 1 damage!
+asdasd's health is 23/60
+asdasd rolls a 10 and misses wolf dog
+wolf dog rolls a 20 and hits asdasd for 1 damage!
+asdasd's health is 22/60
+Fetchup rolls a 13 and misses asdasd
+asdasd rolls a 22 and hits wolf dog for 2 damage!
+wolf dog's health is 2/8
+wolf dog rolls a 9 and misses asdasd
+Fetchup rolls a 15 and hits asdasd for 1 damage!
+asdasd's health is 21/60
+asdasd rolls a 19 and hits wolf dog for 5 damage!
+wolf dog's health is 0/8
+wolf dog dies!
+Fetchup rolls a 20 and hits asdasd for 1 damage!
+asdasd's health is 20/60
+asdasd rolls a 18 and hits Fetchup for 2 damage!
+Fetchup's health is 13/15
+Fetchup rolls a 16 and hits asdasd for 3 damage!
+asdasd's health is 17/60
+asdasd rolls a 19 and hits Fetchup for 5 damage!
+Fetchup's health is 8/15
+Fetchup rolls a 11 and misses asdasd
+asdasd rolls a 18 and hits Fetchup for 4 damage!
+Fetchup's health is 4/15
+Fetchup rolls a 5 and misses asdasd
+asdasd rolls a 6 and misses Fetchup
+Fetchup rolls a 6 and misses asdasd
+asdasd rolls a 22 and hits Fetchup for 2 damage!
+Fetchup's health is 2/15
+Fetchup rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 14/60
+asdasd rolls a 12 and hits Fetchup for 4 damage!
+Fetchup's health is 0/15
+Fetchup dies!
+Picking up
+Not enough room to pick up
+Not enough room to pick up
+you eat the item for 3 hitpoints!
+Picking up
+you eat the item for 6 hitpoints!
+you eat the item for 11 hitpoints!
+Picking up
+item equipped
+asdasd rolls a 12 and hits Pole for 5 damage!
+Pole's health is 2/7
+asdasd rolls a 11 and misses Pole
+asdasd CRITICALLY HITS Pole FOR 16 DAMAGE!
+Pole's health is 0/7
+Pole dies!
+Picking up
+Not enough room to pick up
+you eat the item for 3 hitpoints!
+Picking up
+item equipped
+your strength went up!
+your strength went up!
+Hurl rolls a 20 and hits asdasd for 3 damage!
+asdasd's health is 34/60
+asdasd rolls a 7 and misses Hurl
+Hurl rolls a 7 and misses asdasd
+asdasd rolls a 6 and misses Hurl
+Hurl rolls a 7 and misses asdasd
+asdasd rolls a 7 and misses Hurl
+Hurl rolls a 20 and hits asdasd for 3 damage!
+asdasd's health is 31/60
+asdasd rolls a 9 and misses Hurl
+Hurl rolls a 11 and misses asdasd
+asdasd rolls a 25 and hits Hurl for 6 damage!
+Hurl's health is 10/16
+Hurl rolls a 23 and hits asdasd for 1 damage!
+asdasd's health is 30/60
+asdasd rolls a 5 and misses Hurl
+Hurl rolls a 15 and misses asdasd
+asdasd rolls a 9 and misses Hurl
+Hurl rolls a 16 and misses asdasd
+asdasd rolls a 6 and misses Hurl
+Hurl rolls a 15 and misses asdasd
+asdasd rolls a 14 and hits Hurl for 9 damage!
+Hurl's health is 1/16
+Hurl rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 27/60
+asdasd rolls a 7 and misses Hurl
+Hurl rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 24/60
+asdasd rolls a 6 and misses Hurl
+Hurl rolls a 9 and misses asdasd
+asdasd rolls a 9 and misses Hurl
+Hurl rolls a 23 and hits asdasd for 2 damage!
+asdasd's health is 22/60
+asdasd rolls a 20 and hits Hurl for 6 damage!
+Hurl's health is 0/16
+Hurl dies!
+Not enough room to pick up
+asdasd rolls a 19 and hits Brake for 8 damage!
+Brake's health is 5/13
+Brake rolls a 6 and misses asdasd
+asdasd rolls a 13 and hits Brake for 8 damage!
+Brake's health is 0/13
+Brake dies!
+you level up!
+Upchuck rolls a 7 and misses asdasd
+asdasd rolls a 5 and misses Upchuck
+Upchuck rolls a 14 and misses asdasd
+asdasd rolls a 7 and misses Upchuck
+Upchuck rolls a 20 and hits asdasd for 2 damage!
+asdasd's health is 29/68
+asdasd rolls a 12 and hits Upchuck for 7 damage!
+Upchuck's health is 9/16
+Upchuck rolls a 3 and misses asdasd
+asdasd rolls a 5 and misses Upchuck
+Upchuck rolls a 16 and misses asdasd
+asdasd rolls a 25 and hits Upchuck for 8 damage!
+Upchuck's health is 1/16
+Upchuck rolls a 21 and hits asdasd for 2 damage!
+asdasd's health is 27/68
+asdasd rolls a 6 and misses Upchuck
+Upchuck rolls a 7 and misses asdasd
+asdasd rolls a 7 and misses Upchuck
+Upchuck rolls a 10 and misses asdasd
+asdasd rolls a 5 and misses Upchuck
+Upchuck rolls a 15 and misses asdasd
+asdasd rolls a 22 and hits Upchuck for 5 damage!
+Upchuck's health is 0/16
+Upchuck dies!
+Item Dropped!
+Picking up
+Not enough room to pick up
+you eat the item for 3 hitpoints!
+Picking up
+you eat the item for 3 hitpoints!
+Picking up
+you eat the item for 3 hitpoints!
+Picking up
+your strength went up!
+your strength went up!
+Item Dropped!
+Picking up
+you descend into floor 3, a powerful boss monster lurks in this floor
+Not enough room to pick up
+Item Dropped!
+Picking up
+your strength went up!
+Picking up
+asdasd rolls a 12 and hits Retch for 8 damage!
+Retch's health is 10/18
+Retch rolls a 14 and misses asdasd
+asdasd rolls a 13 and hits Retch for 7 damage!
+Retch's health is 3/18
+Retch rolls a 10 and misses asdasd
+asdasd rolls a 11 and misses Retch
+Retch rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 34/68
+asdasd rolls a 14 and hits Retch for 10 damage!
+Retch's health is 0/18
+Retch dies!
+Not enough room to pick up
+Item Dropped!
+Picking up
+you eat the item for 3 hitpoints!
+Picking up
+asdasd the Globin healed for 12 health!
+Picking up
+Slick rolls a 22 and hits asdasd for 1 damage!
+asdasd's health is 48/68
+asdasd rolls a 19 and hits Slick for 9 damage!
+Slick's health is 5/14
+Slick rolls a 9 and misses asdasd
+asdasd rolls a 7 and misses Slick
+Slick rolls a 16 and misses asdasd
+asdasd rolls a 16 and hits Slick for 10 damage!
+Slick's health is 0/14
+Slick dies!
+Not enough room to pick up
+Item Dropped!
+Picking up
+Equipment slot is occupied
+Item Dropped!
+Item Dropped!
+Picking up
+Picking up
+Not enough room to pick up
+you eat the item for 11 hitpoints!
+Picking up
+asdasd rolls a 23 and hits Yodel for 5 damage!
+Yodel's health is 12/17
+Yodel rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 57/68
+asdasd rolls a 16 and hits Yodel for 8 damage!
+Yodel's health is 4/17
+Yodel rolls a 11 and misses asdasd
+asdasd rolls a 8 and misses Yodel
+Yodel rolls a 4 and misses asdasd
+asdasd rolls a 15 and hits Yodel for 6 damage!
+Yodel's health is 0/17
+Yodel dies!
+Potie's health is 0/7
+Potie dies!
+A flash of heat flies across the room, dealing 7 points of damage!
+The Laser Blaster has 1 charge(s) left
+Tomie's health is 1/8
+A flash of heat flies across the room, dealing 7 points of damage!
+asdasd rolls a 8 and misses Tomie
+Tomie rolls a 3 and misses asdasd
+Hempie rolls a 9 and misses asdasd
+asdasd rolls a 11 and misses Tomie
+Tomie rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 54/68
+Hempie rolls a 15 and misses asdasd
+asdasd rolls a 18 and hits Tomie for 6 damage!
+Tomie's health is 0/8
+Tomie dies!
+Hempie rolls a 11 and misses asdasd
+asdasd rolls a 15 and hits Hempie for 5 damage!
+Hempie's health is 5/10
+Hempie rolls a 7 and misses asdasd
+asdasd rolls a 6 and misses Hempie
+Hempie rolls a 16 and misses asdasd
+asdasd rolls a 14 and hits Hempie for 7 damage!
+Hempie's health is 0/10
+Hempie dies!
+Slide rolls a 14 and misses asdasd
+asdasd rolls a 14 and hits Slide for 10 damage!
+Slide's health is 6/16
+Slide rolls a 18 and hits asdasd for 2 damage!
+asdasd's health is 52/68
+asdasd rolls a 21 and hits Slide for 8 damage!
+Slide's health is 0/16
+Slide dies!
+Picking up
+Not enough room to pick up
+Item Dropped!
+Picking up
+your dexterity went up!
+Picking up
+you eat the item for 11 hitpoints!
+asdasd rolls a 22 and hits Pole for 8 damage!
+Pole's health is 0/7
+Pole dies!
+ rolls a 11 and misses asdasd
+ rolls a 17 and hits asdasd for 1 damage!
+asdasd's health is 49/68
+asdasd rolls a 13 and hits  for 9 damage!
+'s health is 0/8
+ dies!
+you level up!
+Upchuck rolls a 16 and misses asdasd
+asdasd rolls a 5 and misses Upchuck
+Upchuck rolls a 12 and misses asdasd
+asdasd rolls a 18 and hits Upchuck for 8 damage!
+Upchuck's health is 10/18
+Upchuck rolls a 3 and misses asdasd
+asdasd rolls a 22 and hits Upchuck for 5 damage!
+Upchuck's health is 5/18
+Upchuck rolls a 6 and misses asdasd
+asdasd rolls a 12 and hits Upchuck for 8 damage!
+Upchuck's health is 0/18
+Upchuck dies!
+dry heave the XVIIII's health is 74/80
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 14 charge(s) left
+dry heave the XVIIII's health is 68/80
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 13 charge(s) left
+dry heave the XVIIII's health is 62/80
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 12 charge(s) left
+dry heave the XVIIII's health is 37/80
+The grenade explodes in a restrained manner, dealing 25 points of damage!
+dry heave the XVIIII rolls a 9 and misses asdasd
+dry heave the XVIIII's health is 14/80
+The grenade explodes in a restrained manner, dealing 23 points of damage!
+the choggus king cries for help but nobody answers
+dry heave the XVIIII rolls a 8 and misses asdasd
+dry heave the XVIIII's health is 0/80
+dry heave the XVIIII dies!
+The grenade explodes in a restrained manner, dealing 25 points of damage!
+Picking up
+Picking up
+Item Dropped!
+Item Dropped!
+Picking up
+item equipped
+asdasd rolls a 22 and hits Ralph for 7 damage!
+Ralph's health is 11/18
+Ralph rolls a 3 and misses asdasd
+asdasd rolls a 5 and misses Ralph
+Ralph rolls a 20 and hits asdasd for 3 damage!
+asdasd's health is 54/82
+asdasd rolls a 21 and hits Ralph for 8 damage!
+Ralph's health is 3/18
+Ralph rolls a 8 and misses asdasd
+asdasd rolls a 13 and hits Ralph for 5 damage!
+Ralph's health is 0/18
+Ralph dies!
+your strength went up!
+your strength went up!
+you descend into floor 4
+Picking up
+wrangle rolls a 18 and hits asdasd for 4 damage!
+asdasd's health is 50/82
+asdasd rolls a 17 and hits wrangle for 9 damage!
+wrangle's health is 10/19
+wrangle rolls a 12 and misses asdasd
+asdasd rolls a 25 and hits wrangle for 8 damage!
+wrangle's health is 2/19
+wrangle rolls a 7 and misses asdasd
+asdasd rolls a 12 and hits wrangle for 11 damage!
+wrangle's health is 0/19
+wrangle dies!
+you level up!
+Picking up
+Belch rolls a 6 and misses asdasd
+asdasd rolls a 21 and hits Belch for 7 damage!
+Belch's health is 12/19
+Belch rolls a 7 and misses asdasd
+asdasd rolls a 13 and hits Belch for 6 damage!
+Belch's health is 6/19
+Belch rolls a 18 and hits asdasd for 3 damage!
+asdasd's health is 54/94
+asdasd rolls a 7 and misses Belch
+Belch rolls a 15 and misses asdasd
+asdasd rolls a 9 and misses Belch
+Belch CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 50/94
+asdasd rolls a 19 and hits Belch for 10 damage!
+Belch's health is 0/19
+Belch dies!
+Picking up
+your wisdom went up!
+Picking up
+you eat the item for 3 hitpoints!
+asdasd rolls a 18 and hits Upchuck for 6 damage!
+Upchuck's health is 11/17
+Upchuck rolls a 5 and misses asdasd
+asdasd rolls a 16 and hits Upchuck for 7 damage!
+Upchuck's health is 4/17
+Upchuck rolls a 10 and misses asdasd
+asdasd rolls a 14 and hits Upchuck for 8 damage!
+Upchuck's health is 0/17
+Upchuck dies!
+feddie cod rolls a 9 and misses asdasd
+feddie cod rolls a 11 and misses asdasd
+feddie cod rolls a 10 and misses asdasd
+asdasd rolls a 14 and hits feddie cod for 9 damage!
+feddie cod's health is 8/17
+feddie cod rolls a 5 and misses asdasd
+asdasd CRITICALLY HITS feddie cod FOR 16 DAMAGE!
+feddie cod's health is 0/17
+feddie cod dies!
+Picking up
+you eat the item for 16 hitpoints!
+Picking up
+you eat the item for 3 hitpoints!
+asdasd rolls a 22 and hits lackey loathsome for 8 damage!
+lackey loathsome's health is 0/8
+lackey loathsome dies!
+asdasd rolls a 20 and hits lackey loathsome for 9 damage!
+lackey loathsome's health is 2/11
+lackey loathsome rolls a 26 and hits asdasd for 2 damage!
+asdasd's health is 52/94
+asdasd rolls a 12 and hits lackey loathsome for 6 damage!
+lackey loathsome's health is 0/11
+lackey loathsome dies!
+rookie rancorous CRITICALLY HITS asdasd FOR 2 DAMAGE!
+asdasd's health is 50/94
+asdasd rolls a 10 and misses rookie rancorous
+rookie rancorous rolls a 8 and misses asdasd
+asdasd rolls a 25 and hits rookie rancorous for 6 damage!
+rookie rancorous's health is 3/9
+rookie rancorous rolls a 22 and hits asdasd for 3 damage!
+asdasd's health is 47/94
+asdasd rolls a 13 and hits rookie rancorous for 11 damage!
+rookie rancorous's health is 0/9
+rookie rancorous dies!
+rookie rancorous rolls a 20 and hits asdasd for 3 damage!
+asdasd's health is 44/94
+asdasd rolls a 16 and hits rookie rancorous for 7 damage!
+rookie rancorous's health is 4/11
+rookie rancorous rolls a 19 and hits asdasd for 2 damage!
+asdasd's health is 42/94
+asdasd rolls a 9 and misses rookie rancorous
+rookie rancorous rolls a 15 and misses asdasd
+asdasd rolls a 18 and hits rookie rancorous for 9 damage!
+rookie rancorous's health is 0/11
+rookie rancorous dies!
+marquess malevolent rolls a 11 and misses asdasd
+asdasd rolls a 17 and hits marquess malevolent for 5 damage!
+marquess malevolent's health is 43/48
+marquess malevolent rolls a 4 and misses asdasd
+asdasd rolls a 19 and hits marquess malevolent for 7 damage!
+marquess malevolent's health is 36/48
+marquess malevolent CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 38/94
+asdasd rolls a 6 and misses marquess malevolent
+neophyte nefarious rolls a 8 and misses asdasd
+asdasd rolls a 8 and misses marquess malevolent
+marquess malevolent rolls a 9 and misses asdasd
+neophyte nefarious rolls a 12 and misses asdasd
+asdasd rolls a 10 and misses marquess malevolent
+marquess malevolent rolls a 9 and misses asdasd
+neophyte nefarious rolls a 12 and misses asdasd
+asdasd rolls a 13 and hits marquess malevolent for 6 damage!
+marquess malevolent's health is 30/48
+neophyte nefarious rolls a 19 and hits asdasd for 3 damage!
+asdasd's health is 35/94
+pupil pernicious CRITICALLY HITS asdasd FOR 2 DAMAGE!
+asdasd's health is 33/94
+asdasd rolls a 25 and hits neophyte nefarious for 5 damage!
+neophyte nefarious's health is 3/8
+neophyte nefarious rolls a 7 and misses asdasd
+pupil pernicious rolls a 12 and misses asdasd
+asdasd rolls a 11 and misses neophyte nefarious
+neophyte nefarious rolls a 20 and hits asdasd for 2 damage!
+asdasd's health is 31/94
+pupil pernicious rolls a 6 and misses asdasd
+asdasd rolls a 14 and hits neophyte nefarious for 10 damage!
+neophyte nefarious's health is 0/8
+neophyte nefarious dies!
+pupil pernicious rolls a 16 and hits asdasd for 1 damage!
+asdasd's health is 30/94
+asdasd rolls a 8 and misses pupil pernicious
+pupil pernicious rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 28/94
+asdasd rolls a 10 and misses pupil pernicious
+pupil pernicious rolls a 19 and hits asdasd for 2 damage!
+asdasd's health is 26/94
+asdasd rolls a 8 and misses pupil pernicious
+pupil pernicious rolls a 10 and misses asdasd
+asdasd rolls a 7 and misses pupil pernicious
+pupil pernicious rolls a 24 and hits asdasd for 1 damage!
+asdasd's health is 25/94
+asdasd rolls a 20 and hits pupil pernicious for 6 damage!
+pupil pernicious's health is 4/10
+pupil pernicious CRITICALLY HITS asdasd FOR 6 DAMAGE!
+asdasd's health is 19/94
+asdasd rolls a 25 and hits steward spiteful for 9 damage!
+steward spiteful's health is 0/8
+steward spiteful dies!
+pupil pernicious rolls a 26 and hits asdasd for 1 damage!
+asdasd's health is 18/94
+pupil pernicious rolls a 21 and hits asdasd for 2 damage!
+asdasd's health is 16/94
+Picking up
+pupil pernicious rolls a 24 and hits asdasd for 3 damage!
+asdasd's health is 13/94
+Picking up
+pupil pernicious rolls a 9 and misses asdasd
+marquess malevolent's health is 3/48
+The grenade explodes in a restrained manner, dealing 27 points of damage!
+pupil pernicious rolls a 12 and misses asdasd
+marquess malevolent rolls a 18 and hits asdasd for 2 damage!
+asdasd's health is 11/94
+pupil pernicious rolls a 15 and misses asdasd
+asdasd rolls a 17 and hits marquess malevolent for 9 damage!
+marquess malevolent's health is 0/48
+marquess malevolent dies!
+you level up!
+pupil pernicious rolls a 8 and misses asdasd
+asdasd CRITICALLY HITS pupil pernicious FOR 20 DAMAGE!
+pupil pernicious's health is 0/10
+pupil pernicious dies!
+Picking up
+you eat the item for 19 hitpoints!
+your strength went up!
+your strength went up!
+your strength went up!
+your strength went up!
+asdasd rolls a 15 and hits Slow for 7 damage!
+Slow's health is 13/20
+Slow rolls a 4 and misses asdasd
+asdasd rolls a 16 and hits Slow for 12 damage!
+Slow's health is 1/20
+Slow rolls a 11 and misses asdasd
+asdasd rolls a 25 and hits Slow for 10 damage!
+Slow's health is 0/20
+Slow dies!
+Picking up
+you eat the item for 11 hitpoints!
+Item Dropped!
+benji yard rolls a 8 and misses asdasd
+benji yard rolls a 8 and misses asdasd
+asdasd rolls a 17 and hits benji yard for 11 damage!
+benji yard's health is 6/17
+benji yard rolls a 10 and misses asdasd
+asdasd rolls a 14 and hits benji yard for 7 damage!
+benji yard's health is 0/17
+benji yard dies!
+Picking up
+you eat the item for 16 hitpoints!
+asdasd rolls a 18 and hits Slow for 10 damage!
+Slow's health is 9/19
+Slow rolls a 4 and misses asdasd
+asdasd rolls a 12 and misses Slow
+Slow rolls a 4 and misses asdasd
+asdasd rolls a 8 and misses Slow
+Slow rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 65/108
+asdasd rolls a 21 and hits Slow for 7 damage!
+Slow's health is 2/19
+Slow rolls a 7 and misses asdasd
+asdasd rolls a 9 and misses Slow
+Slow rolls a 4 and misses asdasd
+asdasd rolls a 7 and misses Slow
+Slow rolls a 10 and misses asdasd
+asdasd rolls a 23 and hits Slow for 7 damage!
+Slow's health is 0/19
+Slow dies!
+Fetchup rolls a 15 and misses asdasd
+asdasd rolls a 19 and hits Fetchup for 12 damage!
+Fetchup's health is 4/16
+Fetchup rolls a 5 and misses asdasd
+feddie cod rolls a 5 and misses asdasd
+asdasd rolls a 16 and hits Fetchup for 10 damage!
+Fetchup's health is 0/16
+Fetchup dies!
+feddie cod rolls a 15 and misses asdasd
+feddie cod rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 63/108
+feddie cod rolls a 7 and misses asdasd
+asdasd rolls a 17 and hits feddie cod for 12 damage!
+feddie cod's health is 7/19
+feddie cod rolls a 12 and misses asdasd
+asdasd rolls a 22 and hits feddie cod for 6 damage!
+feddie cod's health is 1/19
+feddie cod rolls a 9 and misses asdasd
+asdasd rolls a 21 and hits feddie cod for 7 damage!
+feddie cod's health is 0/19
+feddie cod dies!
+you level up!
+Picking up
+Picking up
+Item Dropped!
+Picking up
+Picking up
+Item Dropped!
+Picking up
+you eat the item for 16 hitpoints!
+you eat the item for 11 hitpoints!
+you eat the item for 3 hitpoints!
+intern iniquitous rolls a 18 and hits asdasd for 1 damage!
+asdasd's health is 98/118
+asdasd rolls a 7 and misses intern iniquitous
+intern iniquitous rolls a 26 and hits asdasd for 3 damage!
+asdasd's health is 95/118
+asdasd rolls a 18 and hits intern iniquitous for 11 damage!
+intern iniquitous's health is 0/11
+intern iniquitous dies!
+lackey loathsome rolls a 7 and misses asdasd
+asdasd rolls a 6 and misses lackey loathsome
+lackey loathsome rolls a 22 and hits asdasd for 2 damage!
+asdasd's health is 93/118
+asdasd rolls a 5 and misses lackey loathsome
+lackey loathsome rolls a 9 and misses asdasd
+lackey loathsome rolls a 25 and hits asdasd for 2 damage!
+asdasd's health is 91/118
+asdasd rolls a 20 and hits lackey loathsome for 9 damage!
+lackey loathsome's health is 0/9
+lackey loathsome dies!
+lackey loathsome rolls a 22 and hits asdasd for 1 damage!
+asdasd's health is 90/118
+lackey loathsome rolls a 10 and misses asdasd
+Madame monstrous rolls a 23 and hits asdasd for 3 damage!
+asdasd's health is 87/118
+lackey loathsome rolls a 8 and misses asdasd
+asdasd rolls a 22 and hits Madame monstrous for 4 damage!
+Madame monstrous's health is 45/49
+Madame monstrous rolls a 13 and misses asdasd
+lackey loathsome rolls a 24 and hits asdasd for 3 damage!
+asdasd's health is 84/118
+asdasd rolls a 25 and hits Madame monstrous for 6 damage!
+Madame monstrous's health is 39/49
+Madame monstrous rolls a 11 and misses asdasd
+lackey loathsome rolls a 21 and hits asdasd for 1 damage!
+asdasd's health is 83/118
+asdasd rolls a 11 and misses Madame monstrous
+Madame monstrous rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 81/118
+lackey loathsome rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 79/118
+asdasd rolls a 25 and hits Madame monstrous for 6 damage!
+Madame monstrous's health is 33/49
+Madame monstrous rolls a 8 and misses asdasd
+lackey loathsome rolls a 17 and hits asdasd for 3 damage!
+asdasd's health is 76/118
+asdasd rolls a 6 and misses Madame monstrous
+Madame monstrous rolls a 7 and misses asdasd
+lackey loathsome rolls a 15 and misses asdasd
+asdasd rolls a 17 and hits Madame monstrous for 4 damage!
+Madame monstrous's health is 29/49
+Madame monstrous rolls a 7 and misses asdasd
+lackey loathsome rolls a 18 and hits asdasd for 2 damage!
+asdasd's health is 74/118
+asdasd rolls a 7 and misses Madame monstrous
+Madame monstrous rolls a 5 and misses asdasd
+lackey loathsome CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 70/118
+asdasd CRITICALLY HITS Madame monstrous FOR 8 DAMAGE!
+Madame monstrous's health is 21/49
+lackey loathsome rolls a 7 and misses asdasd
+rookie rancorous rolls a 5 and misses asdasd
+asdasd rolls a 9 and misses Madame monstrous
+Madame monstrous rolls a 3 and misses asdasd
+lackey loathsome rolls a 22 and hits asdasd for 1 damage!
+asdasd's health is 69/118
+rookie rancorous rolls a 11 and misses asdasd
+asdasd rolls a 7 and misses Madame monstrous
+Madame monstrous rolls a 17 and hits asdasd for 3 damage!
+asdasd's health is 66/118
+lackey loathsome CRITICALLY HITS asdasd FOR 2 DAMAGE!
+asdasd's health is 64/118
+rookie rancorous rolls a 21 and hits asdasd for 2 damage!
+asdasd's health is 62/118
+asdasd CRITICALLY HITS Madame monstrous FOR 18 DAMAGE!
+Madame monstrous's health is 3/49
+Madame monstrous rolls a 3 and misses asdasd
+lackey loathsome rolls a 21 and hits asdasd for 1 damage!
+asdasd's health is 61/118
+rookie rancorous rolls a 25 and hits asdasd for 2 damage!
+asdasd's health is 59/118
+asdasd rolls a 20 and hits Madame monstrous for 9 damage!
+Madame monstrous's health is 0/49
+Madame monstrous dies!
+lackey loathsome rolls a 24 and hits asdasd for 3 damage!
+asdasd's health is 56/118
+rookie rancorous rolls a 5 and misses asdasd
+asdasd rolls a 8 and misses rookie rancorous
+lackey loathsome rolls a 13 and misses asdasd
+rookie rancorous CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 52/118
+asdasd rolls a 10 and misses rookie rancorous
+lackey loathsome rolls a 19 and hits asdasd for 2 damage!
+asdasd's health is 50/118
+rookie rancorous rolls a 22 and hits asdasd for 3 damage!
+asdasd's health is 47/118
+asdasd rolls a 6 and misses rookie rancorous
+lackey loathsome rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 45/118
+rookie rancorous rolls a 6 and misses asdasd
+asdasd rolls a 25 and hits rookie rancorous for 11 damage!
+rookie rancorous's health is 0/11
+rookie rancorous dies!
+lackey loathsome CRITICALLY HITS asdasd FOR 6 DAMAGE!
+asdasd's health is 39/118
+asdasd rolls a 15 and hits lackey loathsome for 12 damage!
+lackey loathsome's health is 0/9
+lackey loathsome dies!
+you descend into floor 5
+Picking up
+asdasd rolls a 13 and hits fracas for 7 damage!
+fracas's health is 17/24
+fracas rolls a 9 and misses asdasd
+asdasd rolls a 22 and hits fracas for 8 damage!
+fracas's health is 9/24
+fracas rolls a 12 and misses asdasd
+asdasd rolls a 21 and hits fracas for 9 damage!
+fracas's health is 0/24
+fracas dies!
+Picking up
+Picking up
+your intelligence went up, but your strength and dexterity went down
+you descend into floor 6, a powerful boss monster lurks in this floor
+Picking up
+Equipment slot is occupied
+Item Dropped!
+item equipped
+asdasd rolls a 11 and misses bobby liverpunch
+bobby liverpunch rolls a 19 and hits asdasd for 2 damage!
+asdasd's health is 37/118
+bobby liverpunch rolls a 5 and misses asdasd
+asdasd rolls a 23 and hits bobby liverpunch for 9 damage!
+bobby liverpunch's health is 15/24
+bobby liverpunch rolls a 16 and hits asdasd for 3 damage!
+asdasd's health is 34/118
+bobby liverpunch rolls a 7 and misses asdasd
+asdasd rolls a 15 and hits bobby liverpunch for 10 damage!
+bobby liverpunch's health is 5/24
+bobby liverpunch rolls a 20 and hits asdasd for 2 damage!
+asdasd's health is 32/118
+bobby liverpunch rolls a 6 and misses asdasd
+asdasd CRITICALLY HITS bobby liverpunch FOR 26 DAMAGE!
+bobby liverpunch's health is 0/24
+bobby liverpunch dies!
+asdasd rolls a 15 and hits fracas for 14 damage!
+fracas's health is 6/20
+fracas rolls a 21 and hits asdasd for 1 damage!
+asdasd's health is 31/118
+asdasd rolls a 23 and hits fracas for 13 damage!
+fracas's health is 0/20
+fracas dies!
+you level up!
+your strength went up!
+your strength went up!
+Slick rolls a 8 and misses asdasd
+asdasd rolls a 10 and misses Slick
+Slick rolls a 10 and misses asdasd
+asdasd rolls a 18 and hits Slick for 11 damage!
+Slick's health is 8/19
+Slick rolls a 12 and misses asdasd
+asdasd rolls a 13 and hits Slick for 13 damage!
+Slick's health is 0/19
+Slick dies!
+Picking up
+Item Dropped!
+Picking up
+your dexterity went up, but your wisdom and intelligence went down
+Picking up
+you eat the item for 11 hitpoints!
+benji yard rolls a 7 and misses asdasd
+benji yard rolls a 22 and hits asdasd for 1 damage!
+asdasd's health is 50/127
+asdasd rolls a 11 and misses benji yard
+benji yard rolls a 7 and misses asdasd
+asdasd rolls a 8 and misses benji yard
+benji yard rolls a 11 and misses asdasd
+asdasd rolls a 18 and hits benji yard for 10 damage!
+benji yard's health is 12/22
+benji yard rolls a 18 and hits asdasd for 3 damage!
+asdasd's health is 47/127
+asdasd rolls a 5 and misses benji yard
+benji yard rolls a 16 and hits asdasd for 2 damage!
+asdasd's health is 45/127
+asdasd rolls a 22 and hits benji yard for 8 damage!
+benji yard's health is 4/22
+benji yard rolls a 19 and hits asdasd for 1 damage!
+asdasd's health is 44/127
+asdasd rolls a 18 and hits benji yard for 11 damage!
+benji yard's health is 0/22
+benji yard dies!
+Picking up
+you eat the item for 16 hitpoints!
+wight proxima rodeo rolls a 23 and hits asdasd for 2 damage!
+asdasd's health is 58/127
+asdasd CRITICALLY HITS wight proxima rodeo FOR 18 DAMAGE!
+wight proxima rodeo's health is 119/137
+wight proxima rodeo rolls a 15 and misses asdasd
+asdasd rolls a 10 and misses wight proxima rodeo
+wight proxima rodeo rolls a 9 and misses asdasd
+wight proxima rodeo rolls a 25 and hits asdasd for 4 damage!
+asdasd's health is 54/127
+wight proxima rodeo rolls a 12 and misses asdasd
+wight proxima rodeo rolls a 16 and hits asdasd for 3 damage!
+asdasd's health is 51/127
+wight proxima rodeo rolls a 17 and hits asdasd for 2 damage!
+asdasd's health is 49/127
+wight proxima rodeo rolls a 14 and misses asdasd
+wight proxima rodeo rolls a 23 and hits asdasd for 3 damage!
+asdasd's health is 46/127
+wight proxima rodeo's health is 104/137
+A huge blast of light and electricity fills the room dealing 15 points of damage!
+wight proxima rodeo rolls a 8 and misses asdasd
+wight proxima rodeo's health is 97/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 9 charge(s) left
+wight proxima rodeo rolls a 16 and hits asdasd for 4 damage!
+asdasd's health is 42/127
+wight proxima rodeo's health is 90/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 8 charge(s) left
+wight proxima rodeo rolls a 8 and misses asdasd
+wight proxima rodeo's health is 83/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 7 charge(s) left
+wight proxima rodeo rolls a 5 and misses asdasd
+wight proxima rodeo's health is 76/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 6 charge(s) left
+wight proxima rodeo rolls a 22 and hits asdasd for 1 damage!
+asdasd's health is 41/127
+wight proxima rodeo's health is 69/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 5 charge(s) left
+wight proxima rodeo CRITICALLY HITS asdasd FOR 4 DAMAGE!
+asdasd's health is 37/127
+wight proxima rodeo's health is 62/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 4 charge(s) left
+wight proxima rodeo rolls a 13 and misses asdasd
+wight proxima rodeo's health is 55/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 3 charge(s) left
+wight proxima rodeo CRITICALLY HITS asdasd FOR 6 DAMAGE!
+asdasd's health is 31/127
+wight proxima rodeo's health is 48/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 2 charge(s) left
+wight proxima rodeo rolls a 21 and hits asdasd for 3 damage!
+asdasd's health is 28/127
+wight proxima rodeo's health is 41/137
+The bomb boomerangs across the room dealing 7 points of damage!
+The Pluralis Grenade has 1 charge(s) left
+wight proxima rodeo rolls a 10 and misses asdasd
+wight proxima rodeo rolls a 12 and misses asdasd
+wight proxima rodeo's health is 34/137
+The bomb boomerangs across the room dealing 7 points of damage!
+wight proxima rodeo rolls a 11 and misses asdasd
+wight proxima rodeo rolls a 7 and misses asdasd
+wight proxima rodeo's health is 28/137
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 11 charge(s) left
+wight proxima rodeo rolls a 6 and misses asdasd
+wight proxima rodeo rolls a 19 and hits asdasd for 4 damage!
+asdasd's health is 24/127
+wight proxima rodeo's health is 22/137
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 10 charge(s) left
+wight proxima rodeo rolls a 13 and misses asdasd
+wight proxima rodeo rolls a 15 and misses asdasd
+wight proxima rodeo's health is 16/137
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 9 charge(s) left
+wight proxima rodeo rolls a 21 and hits asdasd for 4 damage!
+asdasd's health is 20/127
+wight proxima rodeo rolls a 22 and hits asdasd for 3 damage!
+asdasd's health is 17/127
+wight proxima rodeo's health is 10/137
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 8 charge(s) left
+wight proxima rodeo rolls a 19 and hits asdasd for 1 damage!
+asdasd's health is 16/127
+wight proxima rodeo rolls a 7 and misses asdasd
+wight proxima rodeo's health is 4/137
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 7 charge(s) left
+wight proxima rodeo rolls a 11 and misses asdasd
+wight proxima rodeo rolls a 16 and hits asdasd for 1 damage!
+asdasd's health is 15/127
+wight proxima rodeo's health is 0/137
+wight proxima rodeo dies!
+A neon yellow blast of energy flies across the room, dealing 6 points of damage!
+The Pluralis blaster has 6 charge(s) left
+Picking up
+Item Dropped!
+Picking up
+Equipment slot is occupied
+Item Dropped!
+Picking up
+Picking up
+Item Dropped!
+item equipped
+asdasd rolls a 24 and hits Squeeze for 13 damage!
+Squeeze's health is 5/18
+Squeeze rolls a 4 and misses asdasd
+asdasd rolls a 16 and hits Squeeze for 17 damage!
+Squeeze's health is 0/18
+Squeeze dies!
+you level up!
+Picking up
+steward spiteful rolls a 14 and misses asdasd
+you ascend into floor 5
+you ascend into floor 4
+you ascend into floor 3
+you ascend into floor 2
+you ascend into floor 1

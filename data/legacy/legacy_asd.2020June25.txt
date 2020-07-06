@@ -1,0 +1,24 @@
+******THIS CHARACTER LOST!******
+Press h for help
+asd rolls a 4 and misses Strech
+asd rolls a 8 and misses Strech
+asd rolls a 23 and hits Strech for 3 damage!
+Strech's health is 4/7
+asd rolls a 7 and misses Strech
+asd rolls a 10 and misses Strech
+asd rolls a 16 and hits Strech for 4 damage!
+Strech's health is 0/7
+Strech dies!
+Squeeze CRITICALLY HITS asd FOR 8 DAMAGE!
+asd's health is 14/22
+asd rolls a 21 and hits Squeeze for 4 damage!
+Squeeze's health is 17/21
+Squeeze rolls a 6 and misses asd
+asd rolls a 4 and misses Squeeze
+Squeeze rolls a 24 and hits asd for 7 damage!
+asd's health is 7/22
+asd rolls a 14 and hits Squeeze for 2 damage!
+Squeeze's health is 15/21
+Squeeze CRITICALLY HITS asd FOR 10 DAMAGE!
+asd's health is -3/22
+asd dies!
